@@ -1,0 +1,2078 @@
+Ticket_ID,Date_Logged,Customer_ID,Subject,Message_Body,Clean_Ticket,Complaint_Category
+T000201,2023-12-12,C0047,Not working as expected,"<p>The product is defective.
+Very disappointed.
+What are my options?
+Also: poor quality.
+
+—
+Regards,
+A very unhappy customer</p><br><p>This is unacceptable.</p>
+
+Order number: 100859","The product is defective. Very disappointed. What are my options? Also: poor quality. — Regards, A very unhappy customerThis is unacceptable. Order number: 100859",Piegādes jautājumi
+T000007,2023-11-21,C0030,Where is my order?,My delivery is stuck.<br>Tracking shows in transit for days.<br>Please update me.<br><br><br><br>--<br>NordTech Customer,My delivery is stuck.Tracking shows in transit for days.Please update me.--NordTech Customer,Piegādes jautājumi
+T000288,2023-12-18,C0237,Locked out of my home,"I am locked out — the lock does not respond.
+The app shows offline.
+I can't get into my house.
+
+<p>Thanks</p><p>Customer</p>",I am locked out — the lock does not respond. The app shows offline. I can't get into my house. ThanksCustomer,Citi jautājumi
+T000150,2023-12-09,C0122,I want a refund,"I want to get a refund for this product.<br>It is not as described.<br>Please send return instructions.<br><br>Sent from my iPhone
+
+Order number: 100503",I want to get a refund for this product.It is not as described.Please send return instructions.Sent from my iPhone Order number: 100503,Naudas atgriešana
+T000063,2023-11-29,C0004,NordLock Pro pairing issue,"The app will not connect to WiFi.
+I tried resetting but it fails.
+It worked once and then stopped.
+Also: app won't connect.
+
+—
+Regards,
+A very unhappy customer
+
+My order #100459.","The app will not connect to WiFi. I tried resetting but it fails. It worked once and then stopped. Also: app won't connect. — Regards, A very unhappy customer My order #100459.",Kvalitātes problēmas
+T000113,2023-12-06,C0145,Tracking shows no updates,"<p>My delivery is delayed.
+Tracking shows in transit for days.
+Where is my order?
+Also: delivery late.
+
+Sent from my Android device</p>
+
+My order #100796.",My delivery is delayed. Tracking shows in transit for days. Where is my order? Also: delivery late. Sent from my Android device My order #100796.,Piegādes jautājumi
+T000227,2023-12-14,C0010,Battery dies in 2 days,"My smart lock battery drains in 2 days.
+I changed batteries and it still dies.
+Please help ASAP.
+
+<p>Thanks</p><p>Customer</p>
+
+Order number: 100813",My smart lock battery drains in 2 days. I changed batteries and it still dies. Please help ASAP. ThanksCustomer Order number: 100813,Piegādes jautājumi
+T000037,2023-11-26,C0240,Where is my order?,"<p>My delivery is late.
+Tracking shows pending.
+Please update me.
+Also: courier.
+
+—
+Regards,
+A very unhappy customer</p><br><p>This is unacceptable.</p>","My delivery is late. Tracking shows pending. Please update me. Also: courier. — Regards, A very unhappy customerThis is unacceptable.",Piegādes jautājumi
+T000334,2023-12-21,C0003,NordLock Pro battery drains fast,"My NordLock Pro dies in 48 hours.
+I tried new batteries and it still dies.
+Please help ASAP.
+
+<br><br>--<br>NordTech Customer
+
+Order number: 101024",My NordLock Pro dies in 48 hours. I tried new batteries and it still dies. Please help ASAP. --NordTech Customer Order number: 101024,Piegādes jautājumi
+T000065,2023-11-29,C0086,I want a refund,"I want to return this product.
+It is defective.
+How do I start an RMA?
+Also: return.
+
+Sent from my iPhone",I want to return this product. It is defective. How do I start an RMA? Also: return. Sent from my iPhone,Naudas atgriešana
+T000232,2023-12-15,C0042,I want a refund,"<p>I want to return this product.
+It is not working.
+I need my money back.
+
+Sent from my Android device</p>
+
+My order #100512.",I want to return this product. It is not working. I need my money back. Sent from my Android device My order #100512.,Naudas atgriešana
+T000018,2023-11-24,C0082,NordLock Pro battery drains fast,"My smart lock dies in 2 days.<br>I changed batteries and it still dies.<br>This is unacceptable.<br><br>Sent from my iPhone
+
+Order number: 100292",My smart lock dies in 2 days.I changed batteries and it still dies.This is unacceptable.Sent from my iPhone Order number: 100292,Piegādes jautājumi
+T000264,2023-12-17,C0004,Can't open the door,"<p>I am stuck outside — the lock does not respond.
+The app shows offline.
+I need immediate assistance.
+
+—
+Regards,
+A very unhappy customer</p><br><p>Please help!</p>
+
+My order #101101.","I am stuck outside — the lock does not respond. The app shows offline. I need immediate assistance. — Regards, A very unhappy customerPlease help! My order #101101.",Piegādes jautājumi
+T000209,2023-12-13,C0042,Very disappointed,"<p>The product is broken.
+Poor quality.
+What are my options?
+
+Sent from my Android device</p>
+
+Ref: TX-100512",The product is broken. Poor quality. What are my options? Sent from my Android device Ref: TX-100512,Kvalitātes problēmas
+T000322,2023-12-20,C0034,NordLock Pro won't unlock,"I am stuck outside — the lock does not respond.
+The app shows offline.
+This is urgent.
+
+Sent from my iPhone",I am stuck outside — the lock does not respond. The app shows offline. This is urgent. Sent from my iPhone,Citi jautājumi
+T000254,2023-12-16,C0017,NordLock Pro pairing issue,"<p>The app will not connect to the lock.
+I tried reinstalling the app but it fails.
+Please advise.
+
+<p>Thanks</p><p>Customer</p></p>
+
+Ref: TX-100977",The app will not connect to the lock. I tried reinstalling the app but it fails. Please advise. ThanksCustomer Ref: TX-100977,Kvalitātes problēmas
+T000130,2023-12-08,C0267,NordLock Pro won't unlock,"<p>I am stuck outside — the lock does not respond.
+The app shows offline.
+I need immediate assistance.
+
+Sent from my Android device</p>
+
+My order #100881.",I am stuck outside — the lock does not respond. The app shows offline. I need immediate assistance. Sent from my Android device My order #100881.,Piegādes jautājumi
+T000077,2023-12-01,C0191,Tracking shows no updates,"My delivery is stuck.<br>Tracking shows in transit for days.<br>Please update me.<br><br>—<br>Regards,<br>A very unhappy customer
+
+Order number: 100311","My delivery is stuck.Tracking shows in transit for days.Please update me.—Regards,A very unhappy customer Order number: 100311",Piegādes jautājumi
+T000243,2023-12-15,C0026,Can't connect the app,"<p>The app cannot connect to WiFi.
+I tried pairing again but it fails.
+It worked once and then stopped.
+Also: app won't connect.
+
+<br><br>--<br>NordTech Customer</p><br><p>ASAP</p>",The app cannot connect to WiFi. I tried pairing again but it fails. It worked once and then stopped. Also: app won't connect. --NordTech CustomerASAP,Kvalitātes problēmas
+T000028,2023-11-25,C0122,Product defective,The product is broken.<br>Poor quality.<br>I want a replacement.<br><br>Sent from my Android device,The product is broken.Poor quality.I want a replacement.Sent from my Android device,Kvalitātes problēmas
+T000003,2023-11-21,C0148,Very disappointed,"The product is not working.
+Very disappointed.
+Please help.
+Also: broken.
+
+—
+Regards,
+A very unhappy customer
+
+Ref: TX-100114","The product is not working. Very disappointed. Please help. Also: broken. — Regards, A very unhappy customer Ref: TX-100114",Kvalitātes problēmas
+T000102,2023-12-04,C0084,Return request,I want to return this product.<br>It is not working.<br>How do I start an RMA?<br><br><p>Thanks</p><p>Customer</p>,I want to return this product.It is not working.How do I start an RMA?ThanksCustomer,Citi jautājumi
+T000181,2023-12-11,C0017,Can't open the door,"I am locked out — the lock will not unlock.<br>The app shows offline.<br>This is urgent.<br><br>Sent from my Android device
+
+Ref: TX-100977",I am locked out — the lock will not unlock.The app shows offline.This is urgent.Sent from my Android device Ref: TX-100977,Citi jautājumi
+T000257,2023-12-16,C0122,Battery problem with my lock,"My smart lock battery drains in 2 days.
+I changed batteries and it still dies.
+Please help ASAP.
+Also: battery life.
+
+—
+Regards,
+A very unhappy customer
+
+Order number: 100503","My smart lock battery drains in 2 days. I changed batteries and it still dies. Please help ASAP. Also: battery life. — Regards, A very unhappy customer Order number: 100503",Piegādes jautājumi
+T000146,2023-12-09,C0115,Battery dies in 2 days,"My NordLock Pro dies in a day.
+I tried new batteries and it still dies.
+I can't rely on this.
+
+Sent from my Android device
+
+My order #100730.",My NordLock Pro dies in a day. I tried new batteries and it still dies. I can't rely on this. Sent from my Android device My order #100730.,Piegādes jautājumi
+T000273,2023-12-17,C0117,Battery problem with my lock,"<p>My NordLock Pro dies in 48 hours.
+I changed batteries and it still dies.
+Please help ASAP.
+Also: 2 days.
+
+Sent from my iPhone</p>",My NordLock Pro dies in 48 hours. I changed batteries and it still dies. Please help ASAP. Also: 2 days. Sent from my iPhone,Citi jautājumi
+T000158,2023-12-09,C0083,Tracking shows no updates,"<p>My delivery is late.
+Tracking shows in transit for days.
+Where is my order?
+Also: tracking.
+
+Sent from my Android device</p><br><p>ASAP</p>
+
+Order number: 100929",My delivery is late. Tracking shows in transit for days. Where is my order? Also: tracking. Sent from my Android deviceASAP Order number: 100929,Piegādes jautājumi
+T000066,2023-11-29,C0065,Return request,"I want to get a refund for this product.
+It is defective.
+I need my money back.
+
+Sent from my iPhone
+
+My order #101197.",I want to get a refund for this product. It is defective. I need my money back. Sent from my iPhone My order #101197.,Naudas atgriešana
+T000070,2023-11-30,C0249,Return request,"I want to get a refund for this product.
+It is not as described.
+Please send return instructions.
+
+<p>Thanks</p><p>Customer</p>
+
+Ref: TX-100219",I want to get a refund for this product. It is not as described. Please send return instructions. ThanksCustomer Ref: TX-100219,Naudas atgriešana
+T000263,2023-12-17,C0276,Battery problem with my lock,"My smart lock battery drains in a day.
+I changed batteries and it still dies.
+This is unacceptable.
+
+Sent from my Android device
+
+Order number: 101147",My smart lock battery drains in a day. I changed batteries and it still dies. This is unacceptable. Sent from my Android device Order number: 101147,Piegādes jautājumi
+T000291,2023-12-18,C0076,NordLock Pro pairing issue,"The app will not connect to WiFi.
+I tried reinstalling the app but it fails.
+Please advise.
+
+Sent from my Android device
+
+My order #101022.",The app will not connect to WiFi. I tried reinstalling the app but it fails. Please advise. Sent from my Android device My order #101022.,Kvalitātes problēmas
+T000024,2023-11-24,C0158,Can't connect the app,"The app cannot connect to the lock.
+I tried resetting but it fails.
+Please advise.
+
+<br><br>--<br>NordTech Customer
+
+Ref: TX-100596",The app cannot connect to the lock. I tried resetting but it fails. Please advise. --NordTech Customer Ref: TX-100596,Kvalitātes problēmas
+T000129,2023-12-08,C0016,NordLock Pro pairing issue,"<p>The app cannot connect to WiFi.
+I tried resetting but it fails.
+Please advise.
+
+Sent from my Android device</p><br><p>This is unacceptable.</p>
+
+My order #100830.",The app cannot connect to WiFi. I tried resetting but it fails. Please advise. Sent from my Android deviceThis is unacceptable. My order #100830.,Kvalitātes problēmas
+T000096,2023-12-03,C0276,Where is my order?,"<p>My delivery is stuck.
+Tracking shows no updates.
+Please update me.
+Also: delivery late.
+
+Sent from my Android device</p>
+
+My order #101147.",My delivery is stuck. Tracking shows no updates. Please update me. Also: delivery late. Sent from my Android device My order #101147.,Piegādes jautājumi
+T000076,2023-12-01,C0044,NordLock Pro pairing issue,"The app will not connect to WiFi.
+I tried reinstalling the app but it fails.
+It worked once and then stopped.
+Also: bluetooth.
+
+<br><br>--<br>NordTech Customer
+
+My order #101028.",The app will not connect to WiFi. I tried reinstalling the app but it fails. It worked once and then stopped. Also: bluetooth. --NordTech Customer My order #101028.,Kvalitātes problēmas
+T000013,2023-11-23,C0073,Product defective,"<p>The product is not working.
+Poor quality.
+I want a replacement.
+Also: doesn't work.
+
+—
+Regards,
+A very unhappy customer</p>","The product is not working. Poor quality. I want a replacement. Also: doesn't work. — Regards, A very unhappy customer",Citi jautājumi
+T000172,2023-12-10,C0042,Locked out of my home,"I am locked out — the lock does not respond.<br>The app shows offline.<br>I can't get into my house.<br><br>Sent from my Android device
+
+Order number: 100512",I am locked out — the lock does not respond.The app shows offline.I can't get into my house.Sent from my Android device Order number: 100512,Piegādes jautājumi
+T000009,2023-11-21,C0057,Refund for my purchase,"<p>I want to return this product.
+It is not working.
+How do I start an RMA?
+Also: want a refund.
+
+Sent from my Android device</p>",I want to return this product. It is not working. How do I start an RMA? Also: want a refund. Sent from my Android device,Naudas atgriešana
+T000136,2023-12-08,C0078,Can't open the door,"I am stuck outside — the lock will not unlock.<br>The app shows not responding.<br>I can't get into my house.<br><br><br><br>--<br>NordTech Customer
+
+Order number: 100417",I am stuck outside — the lock will not unlock.The app shows not responding.I can't get into my house.--NordTech Customer Order number: 100417,Piegādes jautājumi
+T000014,2023-11-23,C0013,Where is my order?,"My delivery is delayed.
+Tracking shows no updates.
+This is taking too long.
+Also: courier.
+
+Sent from my Android device",My delivery is delayed. Tracking shows no updates. This is taking too long. Also: courier. Sent from my Android device,Piegādes jautājumi
+T000200,2023-12-12,C0042,Battery dies in 2 days,"My NordLock Pro dies in a day.
+I changed batteries and it still dies.
+This is unacceptable.
+
+<br><br>--<br>NordTech Customer
+
+Order number: 100512",My NordLock Pro dies in a day. I changed batteries and it still dies. This is unacceptable. --NordTech Customer Order number: 100512,Piegādes jautājumi
+T000087,2023-12-03,C0057,Product defective,"The product is broken.<br>Poor quality.<br>What are my options?<br><br><br><br>--<br>NordTech Customer
+
+My order #100506.",The product is broken.Poor quality.What are my options?--NordTech Customer My order #100506.,Kvalitātes problēmas
+T000238,2023-12-15,C0054,App cannot connect to WiFi,"The app cannot connect to WiFi.
+I tried resetting but it fails.
+Please advise.
+
+Sent from my Android device
+
+Ref: TX-100846",The app cannot connect to WiFi. I tried resetting but it fails. Please advise. Sent from my Android device Ref: TX-100846,Kvalitātes problēmas
+T000211,2023-12-13,C0151,Tracking shows no updates,"My delivery is delayed.<br>Tracking shows pending.<br>Where is my order?<br><br>Sent from my Android device
+
+My order #100936.",My delivery is delayed.Tracking shows pending.Where is my order?Sent from my Android device My order #100936.,Piegādes jautājumi
+T000145,2023-12-09,C0117,NordLock Pro battery drains fast,"My NordLock Pro dies in 48 hours.<br>I changed batteries and it still drains quickly.<br>I can't rely on this.<br><br>Sent from my iPhone
+
+Order number: 100455",My NordLock Pro dies in 48 hours.I changed batteries and it still drains quickly.I can't rely on this.Sent from my iPhone Order number: 100455,Piegādes jautājumi
+T000164,2023-12-10,C0058,NordLock Pro battery drains fast,"My NordLock Pro dies in 2 days.
+I tried new batteries and it still dies.
+I can't rely on this.
+
+Sent from my Android device
+
+Order number: 100774",My NordLock Pro dies in 2 days. I tried new batteries and it still dies. I can't rely on this. Sent from my Android device Order number: 100774,Piegādes jautājumi
+T000118,2023-12-06,C0017,Delivery delay,My delivery is stuck.<br>Tracking shows no updates.<br>Where is my order?<br>Also: tracking.<br><br><br><br>--<br>NordTech Customer,My delivery is stuck.Tracking shows no updates.Where is my order?Also: tracking.--NordTech Customer,Piegādes jautājumi
+T000315,2023-12-20,C0004,Delivery delay,"<p>My delivery is late.
+Tracking shows in transit for days.
+Where is my order?
+
+<br><br>--<br>NordTech Customer</p>",My delivery is late. Tracking shows in transit for days. Where is my order? --NordTech Customer,Piegādes jautājumi
+T000328,2023-12-21,C0117,App cannot connect to WiFi,"<p>The app will not connect to WiFi.
+I tried pairing again but it fails.
+Please advise.
+
+Sent from my Android device</p>
+
+Ref: TX-100455",The app will not connect to WiFi. I tried pairing again but it fails. Please advise. Sent from my Android device Ref: TX-100455,Kvalitātes problēmas
+T000280,2023-12-18,C0200,Return request,"I want to get a refund for this product.<br>It is defective.<br>Please send return instructions.<br><br><br><br>--<br>NordTech Customer
+
+Ref: TX-100470",I want to get a refund for this product.It is defective.Please send return instructions.--NordTech Customer Ref: TX-100470,Naudas atgriešana
+T000050,2023-11-28,C0169,Where is my order?,"<p>My delivery is stuck.
+Tracking shows pending.
+This is taking too long.
+Also: tracking.
+
+<br><br>--<br>NordTech Customer</p><br><p>ASAP</p>
+
+Ref: TX-100395",My delivery is stuck. Tracking shows pending. This is taking too long. Also: tracking. --NordTech CustomerASAP Ref: TX-100395,Piegādes jautājumi
+T000061,2023-11-29,C0073,Return request,"<p>I want to get a refund for this product.
+It is not as described.
+Please send return instructions.
+
+<p>Thanks</p><p>Customer</p></p>
+
+My order #100381.",I want to get a refund for this product. It is not as described. Please send return instructions. ThanksCustomer My order #100381.,Naudas atgriešana
+T000138,2023-12-08,C0112,Locked out of my home,"I am locked out — the lock does not respond.<br>The app shows offline.<br>This is urgent.<br><br>Sent from my Android device
+
+My order #100786.",I am locked out — the lock does not respond.The app shows offline.This is urgent.Sent from my Android device My order #100786.,Piegādes jautājumi
+T000002,2023-11-20,C0242,Refund for my purchase,"I want to return this product.
+It is defective.
+Please send return instructions.
+Also: want a refund.
+
+<p>Thanks</p><p>Customer</p>",I want to return this product. It is defective. Please send return instructions. Also: want a refund. ThanksCustomer,Naudas atgriešana
+T000049,2023-11-28,C0097,Tracking shows no updates,"<p>My delivery is delayed.
+Tracking shows in transit for days.
+Please update me.
+
+<br><br>--<br>NordTech Customer</p>
+
+My order #100743.",My delivery is delayed. Tracking shows in transit for days. Please update me. --NordTech Customer My order #100743.,Piegādes jautājumi
+T000303,2023-12-19,C0085,Battery problem with my lock,"<p>My NordLock Pro battery drains in a day.
+I changed batteries and it still dies.
+This is unacceptable.
+Also: battery life.
+
+Sent from my iPhone</p>",My NordLock Pro battery drains in a day. I changed batteries and it still dies. This is unacceptable. Also: battery life. Sent from my iPhone,Citi jautājumi
+T000271,2023-12-17,C0282,Product defective,"<p>The product is defective.
+Very disappointed.
+I want a replacement.
+Also: defective.
+
+Sent from my Android device</p>
+
+My order #100815.",The product is defective. Very disappointed. I want a replacement. Also: defective. Sent from my Android device My order #100815.,Piegādes jautājumi
+T000294,2023-12-19,C0218,Refund for my purchase,I want to get a refund for this product.<br>It is not as described.<br>I need my money back.<br><br><p>Thanks</p><p>Customer</p>,I want to get a refund for this product.It is not as described.I need my money back.ThanksCustomer,Naudas atgriešana
+T000161,2023-12-10,C0059,NordLock Pro battery drains fast,"<p>My smart lock dies in 2 days.
+I changed batteries and it still drains quickly.
+Please help ASAP.
+Also: battery dies.
+
+<br><br>--<br>NordTech Customer</p><br><p>Please help!</p>
+
+My order #100686.",My smart lock dies in 2 days. I changed batteries and it still drains quickly. Please help ASAP. Also: battery dies. --NordTech CustomerPlease help! My order #100686.,Piegādes jautājumi
+T000055,2023-11-28,C0026,Product defective,"The product is not working.
+This should not happen.
+Please help.
+
+Sent from my iPhone
+
+My order #100392.",The product is not working. This should not happen. Please help. Sent from my iPhone My order #100392.,Piegādes jautājumi
+T000330,2023-12-21,C0001,Battery dies in 2 days,"<p>My NordLock Pro battery drains in 48 hours.
+I changed batteries and it still drains quickly.
+This is unacceptable.
+
+—
+Regards,
+A very unhappy customer</p><br><p>ASAP</p>","My NordLock Pro battery drains in 48 hours. I changed batteries and it still drains quickly. This is unacceptable. — Regards, A very unhappy customerASAP",Citi jautājumi
+T000011,2023-11-22,C0073,NordLock Pro won't unlock,"<p>I am stuck outside — the lock will not unlock.
+The app shows offline.
+I need immediate assistance.
+
+Sent from my iPhone</p>
+
+My order #100220.",I am stuck outside — the lock will not unlock. The app shows offline. I need immediate assistance. Sent from my iPhone My order #100220.,Piegādes jautājumi
+T000062,2023-11-29,C0085,Product defective,"<p>The product is defective.
+Very disappointed.
+Please help.
+Also: doesn't work.
+
+Sent from my Android device</p><br><p>Please help!</p>
+
+My order #100721.",The product is defective. Very disappointed. Please help. Also: doesn't work. Sent from my Android devicePlease help! My order #100721.,Piegādes jautājumi
+T000262,2023-12-17,C0122,Refund for my purchase,"<p>I want to get a refund for this product.
+It is not as described.
+How do I start an RMA?
+
+Sent from my Android device</p>
+
+Order number: 100503",I want to get a refund for this product. It is not as described. How do I start an RMA? Sent from my Android device Order number: 100503,Naudas atgriešana
+T000025,2023-11-24,C0223,Not working as expected,"The product is broken.<br>Poor quality.<br>I want a replacement.<br>Also: poor quality.<br><br>Sent from my iPhone
+
+Ref: TX-100682",The product is broken.Poor quality.I want a replacement.Also: poor quality.Sent from my iPhone Ref: TX-100682,Kvalitātes problēmas
+T000016,2023-11-24,C0013,Delivery delay,"My delivery is stuck.
+Tracking shows pending.
+This is taking too long.
+
+—
+Regards,
+A very unhappy customer
+
+Ref: TX-100257","My delivery is stuck. Tracking shows pending. This is taking too long. — Regards, A very unhappy customer Ref: TX-100257",Piegādes jautājumi
+T000142,2023-12-08,C0102,I want a refund,"I want to get a refund for this product.<br>It is not as described.<br>I need my money back.<br><br><p>Thanks</p><p>Customer</p>
+
+My order #100866.",I want to get a refund for this product.It is not as described.I need my money back.ThanksCustomer My order #100866.,Naudas atgriešana
+T000312,2023-12-20,C0257,NordLock Pro battery drains fast,"<p>My NordLock Pro battery drains in 48 hours.
+I changed batteries and it still drains quickly.
+Please help ASAP.
+Also: 2 days.
+
+Sent from my iPhone</p>
+
+Ref: TX-100640",My NordLock Pro battery drains in 48 hours. I changed batteries and it still drains quickly. Please help ASAP. Also: 2 days. Sent from my iPhone Ref: TX-100640,Citi jautājumi
+T000067,2023-11-29,C0137,Where is my order?,"My delivery is late.<br>Tracking shows in transit for days.<br>Where is my order?<br><br>Sent from my iPhone
+
+Ref: TX-100484",My delivery is late.Tracking shows in transit for days.Where is my order?Sent from my iPhone Ref: TX-100484,Piegādes jautājumi
+T000298,2023-12-19,C0294,Battery dies in 2 days,"My smart lock dies in 48 hours.<br>I changed batteries and it still dies.<br>I can't rely on this.<br><br>—<br>Regards,<br>A very unhappy customer","My smart lock dies in 48 hours.I changed batteries and it still dies.I can't rely on this.—Regards,A very unhappy customer",Citi jautājumi
+T000281,2023-12-18,C0237,Battery dies in 2 days,"My NordLock Pro dies in 2 days.
+I tried new batteries and it still dies.
+Please help ASAP.
+
+<br><br>--<br>NordTech Customer
+
+My order #100383.",My NordLock Pro dies in 2 days. I tried new batteries and it still dies. Please help ASAP. --NordTech Customer My order #100383.,Piegādes jautājumi
+T000093,2023-12-03,C0048,Tracking shows no updates,"My delivery is late.<br>Tracking shows no updates.<br>Please update me.<br>Also: delivery late.<br><br>—<br>Regards,<br>A very unhappy customer","My delivery is late.Tracking shows no updates.Please update me.Also: delivery late.—Regards,A very unhappy customer",Piegādes jautājumi
+T000133,2023-12-08,C0062,NordLock Pro pairing issue,"<p>The app will not connect to WiFi.
+I tried reinstalling the app but it fails.
+Is there a fix?
+
+<p>Thanks</p><p>Customer</p></p>
+
+My order #100927.",The app will not connect to WiFi. I tried reinstalling the app but it fails. Is there a fix? ThanksCustomer My order #100927.,Kvalitātes problēmas
+T000282,2023-12-18,C0085,Battery dies in 2 days,My smart lock battery drains in a day.<br>I tried new batteries and it still dies.<br>I can't rely on this.<br>Also: battery dies.<br><br>Sent from my iPhone,My smart lock battery drains in a day.I tried new batteries and it still dies.I can't rely on this.Also: battery dies.Sent from my iPhone,Citi jautājumi
+T000114,2023-12-06,C0312,Battery problem with my lock,"My NordLock Pro dies in 48 hours.<br>I changed batteries and it still dies.<br>I can't rely on this.<br><br>Sent from my iPhone
+
+Order number: 100252",My NordLock Pro dies in 48 hours.I changed batteries and it still dies.I can't rely on this.Sent from my iPhone Order number: 100252,Piegādes jautājumi
+T000212,2023-12-13,C0199,Can't connect the app,"The app cannot connect to the lock.
+I tried pairing again but it fails.
+It worked once and then stopped.
+
+—
+Regards,
+A very unhappy customer
+
+My order #100140.","The app cannot connect to the lock. I tried pairing again but it fails. It worked once and then stopped. — Regards, A very unhappy customer My order #100140.",Kvalitātes problēmas
+T000038,2023-11-26,C0010,Tracking shows no updates,"<p>My delivery is stuck.
+Tracking shows no updates.
+Where is my order?
+
+Sent from my Android device</p>
+
+Order number: 100261",My delivery is stuck. Tracking shows no updates. Where is my order? Sent from my Android device Order number: 100261,Piegādes jautājumi
+T000327,2023-12-21,C0122,Tracking shows no updates,"My delivery is stuck.
+Tracking shows no updates.
+Where is my order?
+
+—
+Regards,
+A very unhappy customer
+
+My order #100503.","My delivery is stuck. Tracking shows no updates. Where is my order? — Regards, A very unhappy customer My order #100503.",Piegādes jautājumi
+T000224,2023-12-14,C0022,Battery problem with my lock,"My NordLock Pro dies in 48 hours.<br>I changed batteries and it still drains quickly.<br>This is unacceptable.<br>Also: dead battery.<br><br>—<br>Regards,<br>A very unhappy customer
+
+My order #100923.","My NordLock Pro dies in 48 hours.I changed batteries and it still drains quickly.This is unacceptable.Also: dead battery.—Regards,A very unhappy customer My order #100923.",Piegādes jautājumi
+T000173,2023-12-10,C0218,App cannot connect to WiFi,"<p>The app cannot connect to WiFi.
+I tried pairing again but it fails.
+Please advise.
+
+<p>Thanks</p><p>Customer</p></p>
+
+Order number: 101105",The app cannot connect to WiFi. I tried pairing again but it fails. Please advise. ThanksCustomer Order number: 101105,Kvalitātes problēmas
+T000159,2023-12-09,C0176,Very disappointed,"<p>The product is not working.
+This should not happen.
+I want a replacement.
+
+Sent from my Android device</p>
+
+My order #100597.",The product is not working. This should not happen. I want a replacement. Sent from my Android device My order #100597.,Piegādes jautājumi
+T000014,2023-11-23,C0013,Where is my order?,"My delivery is delayed.
+Tracking shows no updates.
+This is taking too long.
+Also: courier.
+
+Sent from my Android device",My delivery is delayed. Tracking shows no updates. This is taking too long. Also: courier. Sent from my Android device,Piegādes jautājumi
+T000174,2023-12-10,C0199,Battery problem with my lock,"My NordLock Pro battery drains in 48 hours.
+I tried new batteries and it still dies.
+I can't rely on this.
+
+Sent from my Android device
+
+My order #100140.",My NordLock Pro battery drains in 48 hours. I tried new batteries and it still dies. I can't rely on this. Sent from my Android device My order #100140.,Piegādes jautājumi
+T000121,2023-12-07,C0013,Tracking shows no updates,"<p>My delivery is stuck.
+Tracking shows no updates.
+Please update me.
+Also: where is my order.
+
+<br><br>--<br>NordTech Customer</p><br><p>This is unacceptable.</p>
+
+Order number: 100829",My delivery is stuck. Tracking shows no updates. Please update me. Also: where is my order. --NordTech CustomerThis is unacceptable. Order number: 100829,Piegādes jautājumi
+T000143,2023-12-08,C0066,NordLock Pro won't unlock,"<p>I am locked out — the lock will not unlock.
+The app shows offline.
+This is urgent.
+
+<p>Thanks</p><p>Customer</p></p><br><p>ASAP</p>
+
+My order #100663.",I am locked out — the lock will not unlock. The app shows offline. This is urgent. ThanksCustomerASAP My order #100663.,Piegādes jautājumi
+T000300,2023-12-19,C0160,Product defective,"<p>The product is not working.
+This should not happen.
+I want a replacement.
+
+Sent from my Android device</p>
+
+My order #100305.",The product is not working. This should not happen. I want a replacement. Sent from my Android device My order #100305.,Piegādes jautājumi
+T000169,2023-12-10,C0025,Can't open the door,"I am stuck outside — the lock does not respond.<br>The app shows not responding.<br>I can't get into my house.<br><br>Sent from my Android device
+
+My order #100523.",I am stuck outside — the lock does not respond.The app shows not responding.I can't get into my house.Sent from my Android device My order #100523.,Piegādes jautājumi
+T000099,2023-12-04,C0225,Not working as expected,"The product is not working.
+This should not happen.
+Please help.
+
+Sent from my Android device",The product is not working. This should not happen. Please help. Sent from my Android device,Citi jautājumi
+T000091,2023-12-03,C0224,Locked out of my home,"<p>I am locked out — the lock will not unlock.
+The app shows not responding.
+I need immediate assistance.
+Also: can't unlock.
+
+Sent from my Android device</p>
+
+My order #101157.",I am locked out — the lock will not unlock. The app shows not responding. I need immediate assistance. Also: can't unlock. Sent from my Android device My order #101157.,Piegādes jautājumi
+T000308,2023-12-19,C0054,Not working as expected,"The product is broken.<br>This should not happen.<br>I want a replacement.<br><br>—<br>Regards,<br>A very unhappy customer
+
+My order #100846.","The product is broken.This should not happen.I want a replacement.—Regards,A very unhappy customer My order #100846.",Kvalitātes problēmas
+T000217,2023-12-13,C0081,App cannot connect to WiFi,"The app cannot connect to the lock.
+I tried reinstalling the app but it fails.
+Please advise.
+
+—
+Regards,
+A very unhappy customer
+
+Order number: 100162","The app cannot connect to the lock. I tried reinstalling the app but it fails. Please advise. — Regards, A very unhappy customer Order number: 100162",Kvalitātes problēmas
+T000097,2023-12-04,C0005,Return request,"I want to get a refund for this product.
+It is not as described.
+Please send return instructions.
+Also: refund.
+
+<p>Thanks</p><p>Customer</p>
+
+My order #100643.",I want to get a refund for this product. It is not as described. Please send return instructions. Also: refund. ThanksCustomer My order #100643.,Naudas atgriešana
+T000258,2023-12-16,C0030,Very disappointed,"The product is not working.
+Poor quality.
+What are my options?
+Also: poor quality.
+
+—
+Regards,
+A very unhappy customer
+
+Order number: 101094","The product is not working. Poor quality. What are my options? Also: poor quality. — Regards, A very unhappy customer Order number: 101094",Piegādes jautājumi
+T000148,2023-12-09,C0301,App cannot connect to WiFi,"The app cannot connect to the lock.<br>I tried reinstalling the app but it fails.<br>It worked once and then stopped.<br><br>Sent from my Android device
+
+Ref: TX-100644",The app cannot connect to the lock.I tried reinstalling the app but it fails.It worked once and then stopped.Sent from my Android device Ref: TX-100644,Kvalitātes problēmas
+T000325,2023-12-20,C0198,Tracking shows no updates,"<p>My delivery is stuck.
+Tracking shows in transit for days.
+Please update me.
+Also: courier.
+
+Sent from my iPhone</p>",My delivery is stuck. Tracking shows in transit for days. Please update me. Also: courier. Sent from my iPhone,Piegādes jautājumi
+T000080,2023-12-01,C0031,Product defective,"The product is broken.
+This should not happen.
+What are my options?
+Also: broken.
+
+Sent from my Android device",The product is broken. This should not happen. What are my options? Also: broken. Sent from my Android device,Kvalitātes problēmas
+T000144,2023-12-08,C0003,Not working as expected,"The product is broken.<br>This should not happen.<br>What are my options?<br><br><br><br>--<br>NordTech Customer
+
+Order number: 100838",The product is broken.This should not happen.What are my options?--NordTech Customer Order number: 100838,Kvalitātes problēmas
+T000302,2023-12-19,C0008,Refund for my purchase,"I want to return this product.<br>It is not working.<br>I need my money back.<br><br>Sent from my Android device
+
+My order #101131.",I want to return this product.It is not working.I need my money back.Sent from my Android device My order #101131.,Naudas atgriešana
+T000021,2023-11-24,C0238,Tracking shows no updates,"My delivery is delayed.<br>Tracking shows no updates.<br>Please update me.<br>Also: courier.<br><br>Sent from my Android device
+
+My order #100393.",My delivery is delayed.Tracking shows no updates.Please update me.Also: courier.Sent from my Android device My order #100393.,Piegādes jautājumi
+T000286,2023-12-18,C0031,Battery dies in 2 days,"My NordLock Pro battery drains in a day.<br>I changed batteries and it still drains quickly.<br>This is unacceptable.<br>Also: battery dies.<br><br>—<br>Regards,<br>A very unhappy customer
+
+My order #100974.","My NordLock Pro battery drains in a day.I changed batteries and it still drains quickly.This is unacceptable.Also: battery dies.—Regards,A very unhappy customer My order #100974.",Piegādes jautājumi
+T000256,2023-12-16,C0055,App cannot connect to WiFi,"<p>The app will not connect to the lock.
+I tried resetting but it fails.
+Is there a fix?
+
+Sent from my Android device</p>
+
+Order number: 100865",The app will not connect to the lock. I tried resetting but it fails. Is there a fix? Sent from my Android device Order number: 100865,Kvalitātes problēmas
+T000120,2023-12-06,C0052,Battery dies in 2 days,"My smart lock battery drains in 48 hours.
+I tried new batteries and it still drains quickly.
+This is unacceptable.
+
+Sent from my Android device
+
+My order #100728.",My smart lock battery drains in 48 hours. I tried new batteries and it still drains quickly. This is unacceptable. Sent from my Android device My order #100728.,Piegādes jautājumi
+T000022,2023-11-24,C0160,Where is my order?,"<p>My delivery is stuck.
+Tracking shows pending.
+Please update me.
+
+<br><br>--<br>NordTech Customer</p>
+
+My order #100305.",My delivery is stuck. Tracking shows pending. Please update me. --NordTech Customer My order #100305.,Piegādes jautājumi
+T000122,2023-12-07,C0006,Very disappointed,"The product is defective.
+This should not happen.
+Please help.
+Also: broken.
+
+Sent from my iPhone
+
+Ref: TX-100754",The product is defective. This should not happen. Please help. Also: broken. Sent from my iPhone Ref: TX-100754,Kvalitātes problēmas
+T000205,2023-12-13,C0026,NordLock Pro battery drains fast,"My NordLock Pro dies in 48 hours.
+I changed batteries and it still dies.
+I can't rely on this.
+
+Sent from my Android device
+
+My order #100446.",My NordLock Pro dies in 48 hours. I changed batteries and it still dies. I can't rely on this. Sent from my Android device My order #100446.,Piegādes jautājumi
+T000104,2023-12-05,C0106,Refund for my purchase,"<p>I want to get a refund for this product.
+It is defective.
+I need my money back.
+Also: want a refund.
+
+Sent from my Android device</p>
+
+My order #100968.",I want to get a refund for this product. It is defective. I need my money back. Also: want a refund. Sent from my Android device My order #100968.,Naudas atgriešana
+T000233,2023-12-15,C0208,Not working as expected,"The product is broken.<br>Poor quality.<br>I want a replacement.<br><br><br><br>--<br>NordTech Customer
+
+My order #100357.",The product is broken.Poor quality.I want a replacement.--NordTech Customer My order #100357.,Kvalitātes problēmas
+T000277,2023-12-18,C0008,Battery dies in 2 days,"My smart lock dies in 48 hours.<br>I changed batteries and it still dies.<br>This is unacceptable.<br>Also: dead battery.<br><br>Sent from my iPhone
+
+My order #101131.",My smart lock dies in 48 hours.I changed batteries and it still dies.This is unacceptable.Also: dead battery.Sent from my iPhone My order #101131.,Piegādes jautājumi
+T000182,2023-12-11,C0276,Can't connect the app,"The app will not connect to WiFi.
+I tried reinstalling the app but it fails.
+It worked once and then stopped.
+
+<br><br>--<br>NordTech Customer
+
+Order number: 101147",The app will not connect to WiFi. I tried reinstalling the app but it fails. It worked once and then stopped. --NordTech Customer Order number: 101147,Kvalitātes problēmas
+T000226,2023-12-14,C0085,Can't open the door,"I am stuck outside — the lock will not unlock.
+The app shows not responding.
+I can't get into my house.
+
+<br><br>--<br>NordTech Customer
+
+Order number: 100721",I am stuck outside — the lock will not unlock. The app shows not responding. I can't get into my house. --NordTech Customer Order number: 100721,Piegādes jautājumi
+T000085,2023-12-02,C0191,Battery problem with my lock,"My smart lock battery drains in 2 days.
+I tried new batteries and it still dies.
+I can't rely on this.
+
+<p>Thanks</p><p>Customer</p>
+
+My order #100311.",My smart lock battery drains in 2 days. I tried new batteries and it still dies. I can't rely on this. ThanksCustomer My order #100311.,Piegādes jautājumi
+T000141,2023-12-08,C0026,I want a refund,"I want to return this product.<br>It is defective.<br>I need my money back.<br><br>—<br>Regards,<br>A very unhappy customer","I want to return this product.It is defective.I need my money back.—Regards,A very unhappy customer",Naudas atgriešana
+T000215,2023-12-13,C0006,Return request,"<p>I want to get a refund for this product.
+It is defective.
+I need my money back.
+
+<p>Thanks</p><p>Customer</p></p>
+
+My order #101088.",I want to get a refund for this product. It is defective. I need my money back. ThanksCustomer My order #101088.,Naudas atgriešana
+T000301,2023-12-19,C0017,NordLock Pro pairing issue,"<p>The app will not connect to WiFi.
+I tried resetting but it fails.
+Please advise.
+
+<p>Thanks</p><p>Customer</p></p>",The app will not connect to WiFi. I tried resetting but it fails. Please advise. ThanksCustomer,Kvalitātes problēmas
+T000157,2023-12-09,C0271,App cannot connect to WiFi,"<p>The app cannot connect to the lock.
+I tried resetting but it fails.
+It worked once and then stopped.
+
+Sent from my iPhone</p>
+
+Order number: 100752",The app cannot connect to the lock. I tried resetting but it fails. It worked once and then stopped. Sent from my iPhone Order number: 100752,Kvalitātes problēmas
+T000290,2023-12-18,C0058,App cannot connect to WiFi,"The app cannot connect to WiFi.
+I tried resetting but it fails.
+Please advise.
+Also: connectivity.
+
+<p>Thanks</p><p>Customer</p>
+
+My order #100774.",The app cannot connect to WiFi. I tried resetting but it fails. Please advise. Also: connectivity. ThanksCustomer My order #100774.,Kvalitātes problēmas
+T000178,2023-12-11,C0023,Product defective,"<p>The product is not working.
+Poor quality.
+What are my options?
+Also: defective.
+
+Sent from my Android device</p><br><p>This is unacceptable.</p>
+
+Order number: 101047",The product is not working. Poor quality. What are my options? Also: defective. Sent from my Android deviceThis is unacceptable. Order number: 101047,Piegādes jautājumi
+T000149,2023-12-09,C0240,Battery problem with my lock,"<p>My NordLock Pro dies in a day.
+I tried new batteries and it still drains quickly.
+This is unacceptable.
+Also: dead battery.
+
+Sent from my iPhone</p><br><p>This is unacceptable.</p>
+
+My order #100487.",My NordLock Pro dies in a day. I tried new batteries and it still drains quickly. This is unacceptable. Also: dead battery. Sent from my iPhoneThis is unacceptable. My order #100487.,Piegādes jautājumi
+T000048,2023-11-28,C0064,Battery problem with my lock,"My NordLock Pro battery drains in 48 hours.
+I changed batteries and it still drains quickly.
+I can't rely on this.
+
+—
+Regards,
+A very unhappy customer
+
+Order number: 100566","My NordLock Pro battery drains in 48 hours. I changed batteries and it still drains quickly. I can't rely on this. — Regards, A very unhappy customer Order number: 100566",Piegādes jautājumi
+T000041,2023-11-27,C0010,Very disappointed,"The product is not working.
+Very disappointed.
+Please help.
+
+Sent from my Android device
+
+Order number: 100261",The product is not working. Very disappointed. Please help. Sent from my Android device Order number: 100261,Piegādes jautājumi
+T000017,2023-11-24,C0033,NordLock Pro won't unlock,"I am stuck outside — the lock will not unlock.
+The app shows offline.
+This is urgent.
+Also: can't get in.
+
+—
+Regards,
+A very unhappy customer
+
+Order number: 101185","I am stuck outside — the lock will not unlock. The app shows offline. This is urgent. Also: can't get in. — Regards, A very unhappy customer Order number: 101185",Piegādes jautājumi
+T000206,2023-12-13,C0135,Where is my order?,"My delivery is late.
+Tracking shows in transit for days.
+Where is my order?
+
+—
+Regards,
+A very unhappy customer
+
+My order #100696.","My delivery is late. Tracking shows in transit for days. Where is my order? — Regards, A very unhappy customer My order #100696.",Piegādes jautājumi
+T000137,2023-12-08,C0145,Not working as expected,"<p>The product is not working.
+This should not happen.
+What are my options?
+
+<br><br>--<br>NordTech Customer</p>
+
+Order number: 100796",The product is not working. This should not happen. What are my options? --NordTech Customer Order number: 100796,Piegādes jautājumi
+T000231,2023-12-15,C0271,Can't connect the app,"<p>The app will not connect to the lock.
+I tried reinstalling the app but it fails.
+Please advise.
+
+—
+Regards,
+A very unhappy customer</p><br><p>ASAP</p>
+
+My order #100752.","The app will not connect to the lock. I tried reinstalling the app but it fails. Please advise. — Regards, A very unhappy customerASAP My order #100752.",Kvalitātes problēmas
+T000147,2023-12-09,C0019,Very disappointed,"The product is broken.<br>Poor quality.<br>What are my options?<br><br><br><br>--<br>NordTech Customer
+
+Order number: 100784",The product is broken.Poor quality.What are my options?--NordTech Customer Order number: 100784,Kvalitātes problēmas
+T000187,2023-12-11,C0307,Battery problem with my lock,"<p>My NordLock Pro dies in a day.
+I changed batteries and it still dies.
+This is unacceptable.
+
+Sent from my iPhone</p><br><p>ASAP</p>
+
+My order #101115.",My NordLock Pro dies in a day. I changed batteries and it still dies. This is unacceptable. Sent from my iPhoneASAP My order #101115.,Piegādes jautājumi
+T000310,2023-12-20,C0253,Battery dies in 2 days,"My smart lock dies in a day.
+I tried new batteries and it still drains quickly.
+Please help ASAP.
+
+Sent from my Android device
+
+My order #100028.",My smart lock dies in a day. I tried new batteries and it still drains quickly. Please help ASAP. Sent from my Android device My order #100028.,Piegādes jautājumi
+T000191,2023-12-12,C0122,App cannot connect to WiFi,"The app will not connect to the lock.
+I tried pairing again but it fails.
+It worked once and then stopped.
+
+—
+Regards,
+A very unhappy customer
+
+Ref: TX-100503","The app will not connect to the lock. I tried pairing again but it fails. It worked once and then stopped. — Regards, A very unhappy customer Ref: TX-100503",Kvalitātes problēmas
+T000088,2023-12-03,C0022,Not working as expected,"The product is broken.
+This should not happen.
+Please help.
+
+—
+Regards,
+A very unhappy customer
+
+My order #100627.","The product is broken. This should not happen. Please help. — Regards, A very unhappy customer My order #100627.",Kvalitātes problēmas
+T000293,2023-12-18,C0029,NordLock Pro battery drains fast,"My smart lock battery drains in 48 hours.
+I tried new batteries and it still dies.
+I can't rely on this.
+
+<br><br>--<br>NordTech Customer",My smart lock battery drains in 48 hours. I tried new batteries and it still dies. I can't rely on this. --NordTech Customer,Citi jautājumi
+T000276,2023-12-18,C0282,NordLock Pro pairing issue,"The app cannot connect to WiFi.
+I tried resetting but it fails.
+Please advise.
+
+—
+Regards,
+A very unhappy customer
+
+Order number: 100815","The app cannot connect to WiFi. I tried resetting but it fails. Please advise. — Regards, A very unhappy customer Order number: 100815",Kvalitātes problēmas
+T000079,2023-12-01,C0015,Where is my order?,"My delivery is stuck.<br>Tracking shows pending.<br>Where is my order?<br><br>Sent from my Android device
+
+My order #100509.",My delivery is stuck.Tracking shows pending.Where is my order?Sent from my Android device My order #100509.,Piegādes jautājumi
+T000166,2023-12-10,C0229,Battery problem with my lock,"My NordLock Pro battery drains in 2 days.<br>I changed batteries and it still dies.<br>This is unacceptable.<br><br><p>Thanks</p><p>Customer</p>
+
+Order number: 100926",My NordLock Pro battery drains in 2 days.I changed batteries and it still dies.This is unacceptable.ThanksCustomer Order number: 100926,Piegādes jautājumi
+T000075,2023-12-01,C0037,Delivery delay,"My delivery is stuck.<br>Tracking shows in transit for days.<br>This is taking too long.<br>Also: still not received.<br><br>Sent from my Android device
+
+Order number: 100504",My delivery is stuck.Tracking shows in transit for days.This is taking too long.Also: still not received.Sent from my Android device Order number: 100504,Piegādes jautājumi
+T000140,2023-12-08,C0106,Can't connect the app,"The app cannot connect to the lock.
+I tried reinstalling the app but it fails.
+It worked once and then stopped.
+Also: pairing.
+
+<p>Thanks</p><p>Customer</p>
+
+My order #100968.",The app cannot connect to the lock. I tried reinstalling the app but it fails. It worked once and then stopped. Also: pairing. ThanksCustomer My order #100968.,Kvalitātes problēmas
+T000223,2023-12-14,C0010,Return request,"<p>I want to return this product.
+It is defective.
+I need my money back.
+Also: return.
+
+Sent from my iPhone</p><br><p>This is unacceptable.</p>
+
+Ref: TX-100813",I want to return this product. It is defective. I need my money back. Also: return. Sent from my iPhoneThis is unacceptable. Ref: TX-100813,Citi jautājumi
+T000151,2023-12-09,C0122,NordLock Pro pairing issue,"<p>The app will not connect to WiFi.
+I tried resetting but it fails.
+Please advise.
+
+Sent from my iPhone</p>
+
+Order number: 100503",The app will not connect to WiFi. I tried resetting but it fails. Please advise. Sent from my iPhone Order number: 100503,Kvalitātes problēmas
+T000175,2023-12-11,C0025,Battery dies in 2 days,"<p>My smart lock dies in 2 days.
+I changed batteries and it still dies.
+Please help ASAP.
+Also: battery drains.
+
+<p>Thanks</p><p>Customer</p></p>
+
+My order #100523.",My smart lock dies in 2 days. I changed batteries and it still dies. Please help ASAP. Also: battery drains. ThanksCustomer My order #100523.,Piegādes jautājumi
+T000186,2023-12-11,C0002,Delivery delay,"My delivery is late.
+Tracking shows in transit for days.
+This is taking too long.
+
+—
+Regards,
+A very unhappy customer
+
+My order #101165.","My delivery is late. Tracking shows in transit for days. This is taking too long. — Regards, A very unhappy customer My order #101165.",Piegādes jautājumi
+T000285,2023-12-18,C0070,Locked out of my home,"I am stuck outside — the lock will not unlock.<br>The app shows not responding.<br>I need immediate assistance.<br><br>Sent from my Android device
+
+My order #100598.",I am stuck outside — the lock will not unlock.The app shows not responding.I need immediate assistance.Sent from my Android device My order #100598.,Piegādes jautājumi
+T000176,2023-12-11,C0183,NordLock Pro battery drains fast,"<p>My NordLock Pro dies in 48 hours.
+I tried new batteries and it still dies.
+I can't rely on this.
+Also: 2 days.
+
+Sent from my iPhone</p><br><p>This is unacceptable.</p>
+
+Order number: 100802",My NordLock Pro dies in 48 hours. I tried new batteries and it still dies. I can't rely on this. Also: 2 days. Sent from my iPhoneThis is unacceptable. Order number: 100802,Piegādes jautājumi
+T000275,2023-12-18,C0005,Locked out of my home,"I am stuck outside — the lock will not unlock.<br>The app shows offline.<br>This is urgent.<br><br>—<br>Regards,<br>A very unhappy customer
+
+My order #101076.","I am stuck outside — the lock will not unlock.The app shows offline.This is urgent.—Regards,A very unhappy customer My order #101076.",Piegādes jautājumi
+T000251,2023-12-16,C0008,Can't connect the app,"<p>The app cannot connect to the lock.
+I tried resetting but it fails.
+Please advise.
+
+Sent from my iPhone</p>
+
+Order number: 101131",The app cannot connect to the lock. I tried resetting but it fails. Please advise. Sent from my iPhone Order number: 101131,Kvalitātes problēmas
+T000034,2023-11-25,C0020,Product defective,"<p>The product is defective.
+Poor quality.
+Please help.
+
+—
+Regards,
+A very unhappy customer</p>
+
+My order #100285.","The product is defective. Poor quality. Please help. — Regards, A very unhappy customer My order #100285.",Piegādes jautājumi
+T000139,2023-12-08,C0052,Battery problem with my lock,"<p>My NordLock Pro battery drains in 2 days.
+I changed batteries and it still drains quickly.
+This is unacceptable.
+Also: battery drains.
+
+Sent from my iPhone</p>",My NordLock Pro battery drains in 2 days. I changed batteries and it still drains quickly. This is unacceptable. Also: battery drains. Sent from my iPhone,Citi jautājumi
+T000225,2023-12-14,C0187,Can't open the door,"<p>I am locked out — the lock does not respond.
+The app shows not responding.
+I need immediate assistance.
+
+Sent from my Android device</p><br><p>ASAP</p>",I am locked out — the lock does not respond. The app shows not responding. I need immediate assistance. Sent from my Android deviceASAP,Citi jautājumi
+T000283,2023-12-18,C0058,Battery dies in 2 days,"<p>My NordLock Pro dies in 48 hours.
+I tried new batteries and it still drains quickly.
+This is unacceptable.
+
+Sent from my iPhone</p>",My NordLock Pro dies in 48 hours. I tried new batteries and it still drains quickly. This is unacceptable. Sent from my iPhone,Citi jautājumi
+T000317,2023-12-20,C0016,Battery problem with my lock,"My smart lock dies in 2 days.
+I changed batteries and it still dies.
+I can't rely on this.
+Also: 2 days.
+
+<br><br>--<br>NordTech Customer
+
+Order number: 101010",My smart lock dies in 2 days. I changed batteries and it still dies. I can't rely on this. Also: 2 days. --NordTech Customer Order number: 101010,Piegādes jautājumi
+T000177,2023-12-11,C0008,Battery problem with my lock,"My smart lock dies in 48 hours.
+I tried new batteries and it still dies.
+This is unacceptable.
+
+Sent from my iPhone
+
+Ref: TX-100976",My smart lock dies in 48 hours. I tried new batteries and it still dies. This is unacceptable. Sent from my iPhone Ref: TX-100976,Citi jautājumi
+T000235,2023-12-15,C0282,Battery problem with my lock,"My NordLock Pro dies in 48 hours.
+I changed batteries and it still drains quickly.
+I can't rely on this.
+
+Sent from my Android device",My NordLock Pro dies in 48 hours. I changed batteries and it still drains quickly. I can't rely on this. Sent from my Android device,Citi jautājumi
+T000012,2023-11-22,C0244,NordLock Pro pairing issue,"<p>The app cannot connect to the lock.
+I tried resetting but it fails.
+Please advise.
+Also: wifi.
+
+Sent from my Android device</p><br><p>ASAP</p>
+
+Ref: TX-100207",The app cannot connect to the lock. I tried resetting but it fails. Please advise. Also: wifi. Sent from my Android deviceASAP Ref: TX-100207,Kvalitātes problēmas
+T000046,2023-11-28,C0118,Return request,"<p>I want to return this product.
+It is not as described.
+Please send return instructions.
+Also: money back.
+
+<br><br>--<br>NordTech Customer</p>
+
+Order number: 100914",I want to return this product. It is not as described. Please send return instructions. Also: money back. --NordTech Customer Order number: 100914,Piegādes jautājumi
+T000042,2023-11-27,C0182,Delivery delay,"<p>My delivery is stuck.
+Tracking shows pending.
+Where is my order?
+Also: courier.
+
+<p>Thanks</p><p>Customer</p></p><br><p>This is unacceptable.</p>
+
+My order #100267.",My delivery is stuck. Tracking shows pending. Where is my order? Also: courier. ThanksCustomerThis is unacceptable. My order #100267.,Piegādes jautājumi
+T000027,2023-11-25,C0187,Very disappointed,"<p>The product is broken.
+Poor quality.
+I want a replacement.
+
+<br><br>--<br>NordTech Customer</p>
+
+My order #100628.",The product is broken. Poor quality. I want a replacement. --NordTech Customer My order #100628.,Kvalitātes problēmas
+T000032,2023-11-25,C0014,Delivery delay,"My delivery is stuck.
+Tracking shows pending.
+This is taking too long.
+
+<p>Thanks</p><p>Customer</p>",My delivery is stuck. Tracking shows pending. This is taking too long. ThanksCustomer,Piegādes jautājumi
+T000179,2023-12-11,C0075,Battery dies in 2 days,"My NordLock Pro dies in 2 days.
+I tried new batteries and it still drains quickly.
+Please help ASAP.
+
+Sent from my Android device
+
+Ref: TX-100871",My NordLock Pro dies in 2 days. I tried new batteries and it still drains quickly. Please help ASAP. Sent from my Android device Ref: TX-100871,Citi jautājumi
+T000035,2023-11-25,C0157,NordLock Pro battery drains fast,"<p>My NordLock Pro dies in 48 hours.
+I tried new batteries and it still dies.
+This is unacceptable.
+Also: dead battery.
+
+—
+Regards,
+A very unhappy customer</p><br><p>This is unacceptable.</p>
+
+Order number: 100059","My NordLock Pro dies in 48 hours. I tried new batteries and it still dies. This is unacceptable. Also: dead battery. — Regards, A very unhappy customerThis is unacceptable. Order number: 100059",Piegādes jautājumi
+T000198,2023-12-12,C0052,NordLock Pro battery drains fast,"<p>My smart lock dies in 2 days.
+I changed batteries and it still dies.
+I can't rely on this.
+
+Sent from my iPhone</p>
+
+My order #100999.",My smart lock dies in 2 days. I changed batteries and it still dies. I can't rely on this. Sent from my iPhone My order #100999.,Piegādes jautājumi
+T000092,2023-12-03,C0059,Battery problem with my lock,"<p>My NordLock Pro dies in 2 days.
+I changed batteries and it still dies.
+This is unacceptable.
+
+<br><br>--<br>NordTech Customer</p>
+
+Order number: 100686",My NordLock Pro dies in 2 days. I changed batteries and it still dies. This is unacceptable. --NordTech Customer Order number: 100686,Piegādes jautājumi
+T000185,2023-12-11,C0066,Can't connect the app,"<p>The app cannot connect to WiFi.
+I tried pairing again but it fails.
+It worked once and then stopped.
+
+—
+Regards,
+A very unhappy customer</p><br><p>This is unacceptable.</p>
+
+My order #100663.","The app cannot connect to WiFi. I tried pairing again but it fails. It worked once and then stopped. — Regards, A very unhappy customerThis is unacceptable. My order #100663.",Kvalitātes problēmas
+T000058,2023-11-29,C0038,App cannot connect to WiFi,"<p>The app cannot connect to the lock.
+I tried reinstalling the app but it fails.
+Please advise.
+
+<p>Thanks</p><p>Customer</p></p>
+
+My order #100350.",The app cannot connect to the lock. I tried reinstalling the app but it fails. Please advise. ThanksCustomer My order #100350.,Kvalitātes problēmas
+T000265,2023-12-17,C0301,Can't open the door,"<p>I am stuck outside — the lock does not respond.
+The app shows not responding.
+I need immediate assistance.
+
+—
+Regards,
+A very unhappy customer</p>
+
+Ref: TX-100644","I am stuck outside — the lock does not respond. The app shows not responding. I need immediate assistance. — Regards, A very unhappy customer Ref: TX-100644",Citi jautājumi
+T000109,2023-12-05,C0064,Product defective,"<p>The product is defective.
+This should not happen.
+What are my options?
+
+<p>Thanks</p><p>Customer</p></p>",The product is defective. This should not happen. What are my options? ThanksCustomer,Citi jautājumi
+T000072,2023-11-30,C0005,Not working as expected,"The product is defective.
+Very disappointed.
+What are my options?
+
+Sent from my iPhone
+
+Order number: 100453",The product is defective. Very disappointed. What are my options? Sent from my iPhone Order number: 100453,Piegādes jautājumi
+T000188,2023-12-11,C0029,Battery dies in 2 days,"My NordLock Pro battery drains in a day.
+I changed batteries and it still dies.
+Please help ASAP.
+Also: battery life.
+
+Sent from my Android device",My NordLock Pro battery drains in a day. I changed batteries and it still dies. Please help ASAP. Also: battery life. Sent from my Android device,Citi jautājumi
+T000208,2023-12-13,C0011,Battery problem with my lock,"<p>My smart lock battery drains in 48 hours.
+I changed batteries and it still drains quickly.
+Please help ASAP.
+
+Sent from my iPhone</p>
+
+Ref: TX-100799",My smart lock battery drains in 48 hours. I changed batteries and it still drains quickly. Please help ASAP. Sent from my iPhone Ref: TX-100799,Citi jautājumi
+T000162,2023-12-10,C0129,Battery dies in 2 days,"My smart lock dies in a day.<br>I changed batteries and it still dies.<br>I can't rely on this.<br>Also: dead battery.<br><br>Sent from my iPhone
+
+Ref: TX-100074",My smart lock dies in a day.I changed batteries and it still dies.I can't rely on this.Also: dead battery.Sent from my iPhone Ref: TX-100074,Citi jautājumi
+T000116,2023-12-06,C0084,NordLock Pro battery drains fast,"<p>My smart lock battery drains in 48 hours.
+I tried new batteries and it still drains quickly.
+Please help ASAP.
+
+Sent from my Android device</p><br><p>This is unacceptable.</p>
+
+My order #100854.",My smart lock battery drains in 48 hours. I tried new batteries and it still drains quickly. Please help ASAP. Sent from my Android deviceThis is unacceptable. My order #100854.,Piegādes jautājumi
+T000155,2023-12-09,C0158,Battery problem with my lock,"My smart lock battery drains in 48 hours.<br>I tried new batteries and it still dies.<br>I can't rely on this.<br><br>—<br>Regards,<br>A very unhappy customer","My smart lock battery drains in 48 hours.I tried new batteries and it still dies.I can't rely on this.—Regards,A very unhappy customer",Citi jautājumi
+T000031,2023-11-25,C0224,Refund for my purchase,I want to return this product.<br>It is defective.<br>I need my money back.<br>Also: want a refund.<br><br>Sent from my Android device,I want to return this product.It is defective.I need my money back.Also: want a refund.Sent from my Android device,Naudas atgriešana
+T000036,2023-11-25,C0203,Refund for my purchase,"I want to get a refund for this product.
+It is not as described.
+Please send return instructions.
+
+Sent from my Android device",I want to get a refund for this product. It is not as described. Please send return instructions. Sent from my Android device,Naudas atgriešana
+T000073,2023-11-30,C0135,Not working as expected,"<p>The product is not working.
+Poor quality.
+I want a replacement.
+
+<p>Thanks</p><p>Customer</p></p><br><p>Please help!</p>
+
+My order #100696.",The product is not working. Poor quality. I want a replacement. ThanksCustomerPlease help! My order #100696.,Piegādes jautājumi
+T000240,2023-12-15,C0035,Battery dies in 2 days,"My NordLock Pro dies in a day.
+I tried new batteries and it still drains quickly.
+Please help ASAP.
+
+Sent from my iPhone",My NordLock Pro dies in a day. I tried new batteries and it still drains quickly. Please help ASAP. Sent from my iPhone,Citi jautājumi
+T000318,2023-12-20,C0010,App cannot connect to WiFi,The app cannot connect to WiFi.<br>I tried resetting but it fails.<br>It worked once and then stopped.<br>Also: app won't connect.<br><br>Sent from my iPhone,The app cannot connect to WiFi.I tried resetting but it fails.It worked once and then stopped.Also: app won't connect.Sent from my iPhone,Kvalitātes problēmas
+T000326,2023-12-21,C0058,Delivery delay,"My delivery is delayed.
+Tracking shows pending.
+Where is my order?
+
+<p>Thanks</p><p>Customer</p>
+
+Ref: TX-100774",My delivery is delayed. Tracking shows pending. Where is my order? ThanksCustomer Ref: TX-100774,Piegādes jautājumi
+T000051,2023-11-28,C0125,Where is my order?,"My delivery is late.<br>Tracking shows pending.<br>This is taking too long.<br><br><p>Thanks</p><p>Customer</p>
+
+My order #100325.",My delivery is late.Tracking shows pending.This is taking too long.ThanksCustomer My order #100325.,Piegādes jautājumi
+T000316,2023-12-20,C0042,Where is my order?,"My delivery is late.<br>Tracking shows in transit for days.<br>Please update me.<br>Also: still not received.<br><br><br><br>--<br>NordTech Customer
+
+My order #100512.",My delivery is late.Tracking shows in transit for days.Please update me.Also: still not received.--NordTech Customer My order #100512.,Piegādes jautājumi
+T000319,2023-12-20,C0316,Can't open the door,"I am locked out — the lock will not unlock.
+The app shows offline.
+This is urgent.
+
+<p>Thanks</p><p>Customer</p>",I am locked out — the lock will not unlock. The app shows offline. This is urgent. ThanksCustomer,Citi jautājumi
+T000083,2023-12-02,C0023,Tracking shows no updates,"<p>My delivery is late.
+Tracking shows in transit for days.
+This is taking too long.
+Also: tracking.
+
+Sent from my Android device</p>
+
+My order #100571.",My delivery is late. Tracking shows in transit for days. This is taking too long. Also: tracking. Sent from my Android device My order #100571.,Piegādes jautājumi
+T000008,2023-11-21,C0166,Tracking shows no updates,My delivery is stuck.<br>Tracking shows pending.<br>Please update me.<br><br>Sent from my Android device,My delivery is stuck.Tracking shows pending.Please update me.Sent from my Android device,Piegādes jautājumi
+T000241,2023-12-15,C0218,Can't open the door,"<p>I am stuck outside — the lock will not unlock.
+The app shows not responding.
+I can't get into my house.
+
+<p>Thanks</p><p>Customer</p></p>
+
+Ref: TX-101105",I am stuck outside — the lock will not unlock. The app shows not responding. I can't get into my house. ThanksCustomer Ref: TX-101105,Citi jautājumi
+T000043,2023-11-27,C0307,Product defective,"The product is broken.
+This should not happen.
+I want a replacement.
+
+<br><br>--<br>NordTech Customer",The product is broken. This should not happen. I want a replacement. --NordTech Customer,Kvalitātes problēmas
+T000059,2023-11-29,C0012,Not working as expected,"The product is not working.
+Poor quality.
+Please help.
+
+Sent from my iPhone
+
+Order number: 100306",The product is not working. Poor quality. Please help. Sent from my iPhone Order number: 100306,Piegādes jautājumi
+T000255,2023-12-16,C0046,Very disappointed,"<p>The product is defective.
+This should not happen.
+Please help.
+
+—
+Regards,
+A very unhappy customer</p>
+
+My order #100861.","The product is defective. This should not happen. Please help. — Regards, A very unhappy customer My order #100861.",Piegādes jautājumi
+T000015,2023-11-23,C0065,Refund for my purchase,"I want to return this product.
+It is not working.
+I need my money back.
+Also: RMA.
+
+<p>Thanks</p><p>Customer</p>
+
+My order #101197.",I want to return this product. It is not working. I need my money back. Also: RMA. ThanksCustomer My order #101197.,Naudas atgriešana
+T000323,2023-12-20,C0099,Delivery delay,"My delivery is late.<br>Tracking shows no updates.<br>Please update me.<br><br>Sent from my Android device
+
+My order #100258.",My delivery is late.Tracking shows no updates.Please update me.Sent from my Android device My order #100258.,Piegādes jautājumi
+T000284,2023-12-18,C0307,I want a refund,"I want to get a refund for this product.<br>It is defective.<br>How do I start an RMA?<br><br><p>Thanks</p><p>Customer</p>
+
+Ref: TX-101115",I want to get a refund for this product.It is defective.How do I start an RMA?ThanksCustomer Ref: TX-101115,Naudas atgriešana
+T000131,2023-12-08,C0023,Battery problem with my lock,"My smart lock battery drains in a day.<br>I tried new batteries and it still dies.<br>This is unacceptable.<br><br>Sent from my iPhone
+
+Order number: 100655",My smart lock battery drains in a day.I tried new batteries and it still dies.This is unacceptable.Sent from my iPhone Order number: 100655,Piegādes jautājumi
+T000193,2023-12-12,C0238,I want a refund,I want to get a refund for this product.<br>It is not working.<br>How do I start an RMA?<br>Also: refund.<br><br>Sent from my Android device,I want to get a refund for this product.It is not working.How do I start an RMA?Also: refund.Sent from my Android device,Naudas atgriešana
+T000203,2023-12-13,C0030,Can't connect the app,"The app will not connect to WiFi.<br>I tried reinstalling the app but it fails.<br>Please advise.<br><br><p>Thanks</p><p>Customer</p>
+
+Order number: 101094",The app will not connect to WiFi.I tried reinstalling the app but it fails.Please advise.ThanksCustomer Order number: 101094,Kvalitātes problēmas
+T000218,2023-12-13,C0031,NordLock Pro battery drains fast,"<p>My NordLock Pro battery drains in 48 hours.
+I tried new batteries and it still dies.
+I can't rely on this.
+Also: battery dies.
+
+<p>Thanks</p><p>Customer</p></p><br><p>Please help!</p>",My NordLock Pro battery drains in 48 hours. I tried new batteries and it still dies. I can't rely on this. Also: battery dies. ThanksCustomerPlease help!,Citi jautājumi
+T000060,2023-11-29,C0039,I want a refund,"I want to get a refund for this product.
+It is defective.
+How do I start an RMA?
+
+—
+Regards,
+A very unhappy customer","I want to get a refund for this product. It is defective. How do I start an RMA? — Regards, A very unhappy customer",Naudas atgriešana
+T000236,2023-12-15,C0090,NordLock Pro battery drains fast,"<p>My NordLock Pro dies in 48 hours.
+I tried new batteries and it still drains quickly.
+Please help ASAP.
+
+<br><br>--<br>NordTech Customer</p><br><p>This is unacceptable.</p>
+
+Ref: TX-100171",My NordLock Pro dies in 48 hours. I tried new batteries and it still drains quickly. Please help ASAP. --NordTech CustomerThis is unacceptable. Ref: TX-100171,Citi jautājumi
+T000304,2023-12-19,C0182,NordLock Pro pairing issue,"The app cannot connect to the lock.<br>I tried reinstalling the app but it fails.<br>Is there a fix?<br><br>Sent from my Android device
+
+My order #100267.",The app cannot connect to the lock.I tried reinstalling the app but it fails.Is there a fix?Sent from my Android device My order #100267.,Kvalitātes problēmas
+T000071,2023-11-30,C0178,Where is my order?,"My delivery is delayed.
+Tracking shows no updates.
+This is taking too long.
+
+—
+Regards,
+A very unhappy customer
+
+Order number: 100986","My delivery is delayed. Tracking shows no updates. This is taking too long. — Regards, A very unhappy customer Order number: 100986",Piegādes jautājumi
+T000082,2023-12-02,C0103,Very disappointed,"The product is not working.<br>Poor quality.<br>What are my options?<br><br>—<br>Regards,<br>A very unhappy customer
+
+Order number: 101103","The product is not working.Poor quality.What are my options?—Regards,A very unhappy customer Order number: 101103",Piegādes jautājumi
+T000190,2023-12-11,C0041,Delivery delay,"<p>My delivery is delayed.
+Tracking shows in transit for days.
+Where is my order?
+
+—
+Regards,
+A very unhappy customer</p>
+
+My order #100790.","My delivery is delayed. Tracking shows in transit for days. Where is my order? — Regards, A very unhappy customer My order #100790.",Piegādes jautājumi
+T000171,2023-12-10,C0075,Battery problem with my lock,"<p>My NordLock Pro battery drains in 2 days.
+I changed batteries and it still dies.
+I can't rely on this.
+Also: battery dies.
+
+—
+Regards,
+A very unhappy customer</p><br><p>ASAP</p>","My NordLock Pro battery drains in 2 days. I changed batteries and it still dies. I can't rely on this. Also: battery dies. — Regards, A very unhappy customerASAP",Citi jautājumi
+T000180,2023-12-11,C0187,Where is my order?,"My delivery is stuck.
+Tracking shows no updates.
+This is taking too long.
+
+Sent from my Android device
+
+My order #100954.",My delivery is stuck. Tracking shows no updates. This is taking too long. Sent from my Android device My order #100954.,Piegādes jautājumi
+T000214,2023-12-13,C0135,Not working as expected,"<p>The product is defective.
+This should not happen.
+I want a replacement.
+Also: defective.
+
+Sent from my iPhone</p>
+
+My order #100696.",The product is defective. This should not happen. I want a replacement. Also: defective. Sent from my iPhone My order #100696.,Piegādes jautājumi
+T000084,2023-12-02,C0081,Delivery delay,"<p>My delivery is late.
+Tracking shows in transit for days.
+Please update me.
+Also: where is my order.
+
+—
+Regards,
+A very unhappy customer</p><br><p>This is unacceptable.</p>
+
+My order #100162.","My delivery is late. Tracking shows in transit for days. Please update me. Also: where is my order. — Regards, A very unhappy customerThis is unacceptable. My order #100162.",Piegādes jautājumi
+T000165,2023-12-10,C0271,NordLock Pro battery drains fast,"My NordLock Pro dies in 48 hours.
+I tried new batteries and it still dies.
+I can't rely on this.
+
+Sent from my iPhone",My NordLock Pro dies in 48 hours. I tried new batteries and it still dies. I can't rely on this. Sent from my iPhone,Citi jautājumi
+T000270,2023-12-17,C0085,Can't connect the app,The app will not connect to the lock.<br>I tried pairing again but it fails.<br>Is there a fix?<br><br><p>Thanks</p><p>Customer</p>,The app will not connect to the lock.I tried pairing again but it fails.Is there a fix?ThanksCustomer,Kvalitātes problēmas
+T000156,2023-12-09,C0066,Battery problem with my lock,"My NordLock Pro dies in a day.
+I changed batteries and it still drains quickly.
+This is unacceptable.
+
+<p>Thanks</p><p>Customer</p>
+
+My order #100663.",My NordLock Pro dies in a day. I changed batteries and it still drains quickly. This is unacceptable. ThanksCustomer My order #100663.,Piegādes jautājumi
+T000090,2023-12-03,C0035,Battery dies in 2 days,"My NordLock Pro battery drains in 48 hours.<br>I tried new batteries and it still dies.<br>Please help ASAP.<br>Also: battery drains.<br><br><br><br>--<br>NordTech Customer
+
+My order #100918.",My NordLock Pro battery drains in 48 hours.I tried new batteries and it still dies.Please help ASAP.Also: battery drains.--NordTech Customer My order #100918.,Piegādes jautājumi
+T000237,2023-12-15,C0028,App cannot connect to WiFi,"The app cannot connect to the lock.<br>I tried resetting but it fails.<br>Is there a fix?<br><br><br><br>--<br>NordTech Customer
+
+Order number: 100959",The app cannot connect to the lock.I tried resetting but it fails.Is there a fix?--NordTech Customer Order number: 100959,Kvalitātes problēmas
+T000220,2023-12-14,C0126,NordLock Pro battery drains fast,"<p>My NordLock Pro battery drains in 2 days.
+I changed batteries and it still dies.
+This is unacceptable.
+
+<br><br>--<br>NordTech Customer</p><br><p>Please help!</p>
+
+My order #100239.",My NordLock Pro battery drains in 2 days. I changed batteries and it still dies. This is unacceptable. --NordTech CustomerPlease help! My order #100239.,Piegādes jautājumi
+T000004,2023-11-21,C0143,App cannot connect to WiFi,"<p>The app will not connect to WiFi.
+I tried pairing again but it fails.
+It worked once and then stopped.
+
+Sent from my Android device</p>",The app will not connect to WiFi. I tried pairing again but it fails. It worked once and then stopped. Sent from my Android device,Kvalitātes problēmas
+T000105,2023-12-05,C0042,Where is my order?,"<p>My delivery is late.
+Tracking shows no updates.
+This is taking too long.
+Also: still not received.
+
+Sent from my Android device</p>
+
+Ref: TX-100512",My delivery is late. Tracking shows no updates. This is taking too long. Also: still not received. Sent from my Android device Ref: TX-100512,Piegādes jautājumi
+T000152,2023-12-09,C0024,Very disappointed,"The product is not working.<br>Very disappointed.<br>Please help.<br><br>Sent from my iPhone
+
+Order number: 101200",The product is not working.Very disappointed.Please help.Sent from my iPhone Order number: 101200,Piegādes jautājumi
+T000253,2023-12-16,C0198,NordLock Pro battery drains fast,"My smart lock dies in a day.<br>I changed batteries and it still drains quickly.<br>I can't rely on this.<br><br><p>Thanks</p><p>Customer</p>
+
+My order #100746.",My smart lock dies in a day.I changed batteries and it still drains quickly.I can't rely on this.ThanksCustomer My order #100746.,Piegādes jautājumi
+T000207,2023-12-13,C0004,Return request,I want to get a refund for this product.<br>It is defective.<br>Please send return instructions.<br><br><p>Thanks</p><p>Customer</p>,I want to get a refund for this product.It is defective.Please send return instructions.ThanksCustomer,Naudas atgriešana
+T000026,2023-11-25,C0249,Delivery delay,"My delivery is late.
+Tracking shows pending.
+Please update me.
+
+Sent from my Android device
+
+Order number: 100219",My delivery is late. Tracking shows pending. Please update me. Sent from my Android device Order number: 100219,Piegādes jautājumi
+T000153,2023-12-09,C0057,Battery dies in 2 days,"My NordLock Pro dies in 2 days.<br>I tried new batteries and it still drains quickly.<br>This is unacceptable.<br><br>Sent from my iPhone
+
+Order number: 100758",My NordLock Pro dies in 2 days.I tried new batteries and it still drains quickly.This is unacceptable.Sent from my iPhone Order number: 100758,Piegādes jautājumi
+T000001,2023-11-20,C0200,Delivery delay,"My delivery is late.
+Tracking shows no updates.
+Where is my order?
+Also: where is my order.
+
+<br><br>--<br>NordTech Customer
+
+Ref: TX-100470",My delivery is late. Tracking shows no updates. Where is my order? Also: where is my order. --NordTech Customer Ref: TX-100470,Piegādes jautājumi
+T000106,2023-12-05,C0047,NordLock Pro won't unlock,"I am locked out — the lock does not respond.
+The app shows not responding.
+I can't get into my house.
+Also: locked out.
+
+Sent from my Android device
+
+Order number: 100859",I am locked out — the lock does not respond. The app shows not responding. I can't get into my house. Also: locked out. Sent from my Android device Order number: 100859,Piegādes jautājumi
+T000313,2023-12-20,C0030,I want a refund,"<p>I want to get a refund for this product.
+It is defective.
+I need my money back.
+
+Sent from my Android device</p><br><p>Please help!</p>",I want to get a refund for this product. It is defective. I need my money back. Sent from my Android devicePlease help!,Naudas atgriešana
+T000132,2023-12-08,C0057,Locked out of my home,"I am stuck outside — the lock does not respond.<br>The app shows not responding.<br>I can't get into my house.<br>Also: stuck outside.<br><br>—<br>Regards,<br>A very unhappy customer
+
+Order number: 100758","I am stuck outside — the lock does not respond.The app shows not responding.I can't get into my house.Also: stuck outside.—Regards,A very unhappy customer Order number: 100758",Piegādes jautājumi
+T000039,2023-11-26,C0042,Delivery delay,"<p>My delivery is late.
+Tracking shows no updates.
+Where is my order?
+
+—
+Regards,
+A very unhappy customer</p>
+
+Order number: 100512","My delivery is late. Tracking shows no updates. Where is my order? — Regards, A very unhappy customer Order number: 100512",Piegādes jautājumi
+T000259,2023-12-16,C0003,Locked out of my home,"<p>I am stuck outside — the lock will not unlock.
+The app shows offline.
+This is urgent.
+Also: can't unlock.
+
+—
+Regards,
+A very unhappy customer</p><br><p>ASAP</p>
+
+My order #101005.","I am stuck outside — the lock will not unlock. The app shows offline. This is urgent. Also: can't unlock. — Regards, A very unhappy customerASAP My order #101005.",Piegādes jautājumi
+T000239,2023-12-15,C0129,Battery problem with my lock,My NordLock Pro battery drains in a day.<br>I tried new batteries and it still dies.<br>Please help ASAP.<br><br><p>Thanks</p><p>Customer</p>,My NordLock Pro battery drains in a day.I tried new batteries and it still dies.Please help ASAP.ThanksCustomer,Citi jautājumi
+T000249,2023-12-16,C0282,NordLock Pro pairing issue,"The app will not connect to WiFi.<br>I tried resetting but it fails.<br>Is there a fix?<br><br>Sent from my Android device
+
+My order #100815.",The app will not connect to WiFi.I tried resetting but it fails.Is there a fix?Sent from my Android device My order #100815.,Kvalitātes problēmas
+T000019,2023-11-24,C0083,Battery problem with my lock,"<p>My smart lock battery drains in a day.
+I changed batteries and it still dies.
+This is unacceptable.
+
+Sent from my Android device</p><br><p>This is unacceptable.</p>
+
+My order #100568.",My smart lock battery drains in a day. I changed batteries and it still dies. This is unacceptable. Sent from my Android deviceThis is unacceptable. My order #100568.,Piegādes jautājumi
+T000117,2023-12-06,C0103,NordLock Pro pairing issue,"The app will not connect to WiFi.<br>I tried reinstalling the app but it fails.<br>It worked once and then stopped.<br><br><br><br>--<br>NordTech Customer
+
+My order #101103.",The app will not connect to WiFi.I tried reinstalling the app but it fails.It worked once and then stopped.--NordTech Customer My order #101103.,Kvalitātes problēmas
+T000322,2023-12-20,C0034,NordLock Pro won't unlock,"I am stuck outside — the lock does not respond.
+The app shows offline.
+This is urgent.
+
+Sent from my iPhone",I am stuck outside — the lock does not respond. The app shows offline. This is urgent. Sent from my iPhone,Citi jautājumi
+T000017,2023-11-24,C0033,NordLock Pro won't unlock,"I am stuck outside — the lock will not unlock.
+The app shows offline.
+This is urgent.
+Also: can't get in.
+
+—
+Regards,
+A very unhappy customer
+
+Order number: 101185","I am stuck outside — the lock will not unlock. The app shows offline. This is urgent. Also: can't get in. — Regards, A very unhappy customer Order number: 101185",Piegādes jautājumi
+T000134,2023-12-08,C0199,NordLock Pro battery drains fast,"<p>My smart lock dies in a day.
+I tried new batteries and it still dies.
+This is unacceptable.
+
+Sent from my iPhone</p>
+
+Ref: TX-100140",My smart lock dies in a day. I tried new batteries and it still dies. This is unacceptable. Sent from my iPhone Ref: TX-100140,Citi jautājumi
+T000069,2023-11-30,C0018,Not working as expected,"The product is defective.
+This should not happen.
+Please help.
+
+Sent from my Android device
+
+Ref: TX-100534",The product is defective. This should not happen. Please help. Sent from my Android device Ref: TX-100534,Citi jautājumi
+T000152,2023-12-09,C0024,Very disappointed,"The product is not working.<br>Very disappointed.<br>Please help.<br><br>Sent from my iPhone
+
+Order number: 101200",The product is not working.Very disappointed.Please help.Sent from my iPhone Order number: 101200,Piegādes jautājumi
+T000095,2023-12-03,C0064,Return request,"I want to return this product.<br>It is defective.<br>How do I start an RMA?<br>Also: want a refund.<br><br>—<br>Regards,<br>A very unhappy customer
+
+My order #100566.","I want to return this product.It is defective.How do I start an RMA?Also: want a refund.—Regards,A very unhappy customer My order #100566.",Naudas atgriešana
+T000301,2023-12-19,C0017,NordLock Pro pairing issue,"<p>The app will not connect to WiFi.
+I tried resetting but it fails.
+Please advise.
+
+<p>Thanks</p><p>Customer</p></p>",The app will not connect to WiFi. I tried resetting but it fails. Please advise. ThanksCustomer,Kvalitātes problēmas
+T000289,2023-12-18,C0183,I want a refund,"I want to get a refund for this product.
+It is not as described.
+How do I start an RMA?
+Also: refund.
+
+<br><br>--<br>NordTech Customer",I want to get a refund for this product. It is not as described. How do I start an RMA? Also: refund. --NordTech Customer,Naudas atgriešana
+T000119,2023-12-06,C0166,Not working as expected,"The product is defective.
+Poor quality.
+What are my options?
+Also: defective.
+
+<br><br>--<br>NordTech Customer
+
+Order number: 100689",The product is defective. Poor quality. What are my options? Also: defective. --NordTech Customer Order number: 100689,Piegādes jautājumi
+T000112,2023-12-06,C0097,Product defective,The product is defective.<br>Poor quality.<br>What are my options?<br><br><br><br>--<br>NordTech Customer,The product is defective.Poor quality.What are my options?--NordTech Customer,Citi jautājumi
+T000287,2023-12-18,C0048,NordLock Pro pairing issue,"The app will not connect to the lock.<br>I tried reinstalling the app but it fails.<br>Is there a fix?<br>Also: connectivity.<br><br>Sent from my Android device
+
+My order #100066.",The app will not connect to the lock.I tried reinstalling the app but it fails.Is there a fix?Also: connectivity.Sent from my Android device My order #100066.,Kvalitātes problēmas
+T000110,2023-12-05,C0113,Battery problem with my lock,"<p>My smart lock dies in 2 days.
+I changed batteries and it still dies.
+This is unacceptable.
+
+—
+Regards,
+A very unhappy customer</p>
+
+My order #100122.","My smart lock dies in 2 days. I changed batteries and it still dies. This is unacceptable. — Regards, A very unhappy customer My order #100122.",Piegādes jautājumi
+T000057,2023-11-29,C0118,Very disappointed,"The product is defective.
+Poor quality.
+I want a replacement.
+
+Sent from my iPhone
+
+My order #100914.",The product is defective. Poor quality. I want a replacement. Sent from my iPhone My order #100914.,Piegādes jautājumi
+T000128,2023-12-08,C0002,Can't connect the app,"<p>The app will not connect to WiFi.
+I tried pairing again but it fails.
+Is there a fix?
+
+—
+Regards,
+A very unhappy customer</p><br><p>This is unacceptable.</p>
+
+Order number: 100748","The app will not connect to WiFi. I tried pairing again but it fails. Is there a fix? — Regards, A very unhappy customerThis is unacceptable. Order number: 100748",Kvalitātes problēmas
+T000305,2023-12-19,C0244,Battery problem with my lock,"My smart lock dies in 2 days.<br>I changed batteries and it still dies.<br>I can't rely on this.<br><br><p>Thanks</p><p>Customer</p>
+
+My order #100207.",My smart lock dies in 2 days.I changed batteries and it still dies.I can't rely on this.ThanksCustomer My order #100207.,Piegādes jautājumi
+T000183,2023-12-11,C0010,NordLock Pro won't unlock,"<p>I am locked out — the lock will not unlock.
+The app shows not responding.
+This is urgent.
+
+Sent from my iPhone</p><br><p>This is unacceptable.</p>
+
+Ref: TX-100813",I am locked out — the lock will not unlock. The app shows not responding. This is urgent. Sent from my iPhoneThis is unacceptable. Ref: TX-100813,Citi jautājumi
+T000228,2023-12-14,C0282,Battery dies in 2 days,"<p>My smart lock battery drains in a day.
+I changed batteries and it still drains quickly.
+This is unacceptable.
+
+<br><br>--<br>NordTech Customer</p>
+
+My order #100815.",My smart lock battery drains in a day. I changed batteries and it still drains quickly. This is unacceptable. --NordTech Customer My order #100815.,Piegādes jautājumi
+T000210,2023-12-13,C0019,Very disappointed,"The product is not working.<br>This should not happen.<br>Please help.<br><br><p>Thanks</p><p>Customer</p>
+
+Order number: 100784",The product is not working.This should not happen.Please help.ThanksCustomer Order number: 100784,Piegādes jautājumi
+T000124,2023-12-07,C0124,Return request,"<p>I want to return this product.
+It is not working.
+Please send return instructions.
+Also: want a refund.
+
+<p>Thanks</p><p>Customer</p></p><br><p>This is unacceptable.</p>
+
+Order number: 100070",I want to return this product. It is not working. Please send return instructions. Also: want a refund. ThanksCustomerThis is unacceptable. Order number: 100070,Naudas atgriešana
+T000040,2023-11-26,C0069,Tracking shows no updates,"My delivery is late.<br>Tracking shows no updates.<br>Please update me.<br><br>—<br>Regards,<br>A very unhappy customer","My delivery is late.Tracking shows no updates.Please update me.—Regards,A very unhappy customer",Piegādes jautājumi
+T000044,2023-11-27,C0135,Locked out of my home,"I am locked out — the lock will not unlock.<br>The app shows not responding.<br>This is urgent.<br>Also: door won't open.<br><br><p>Thanks</p><p>Customer</p>
+
+Order number: 100213",I am locked out — the lock will not unlock.The app shows not responding.This is urgent.Also: door won't open.ThanksCustomer Order number: 100213,Piegādes jautājumi
+T000006,2023-11-21,C0018,Where is my order?,"My delivery is stuck.
+Tracking shows pending.
+This is taking too long.
+
+<br><br>--<br>NordTech Customer
+
+Order number: 100240",My delivery is stuck. Tracking shows pending. This is taking too long. --NordTech Customer Order number: 100240,Piegādes jautājumi
+T000299,2023-12-19,C0033,NordLock Pro pairing issue,"The app cannot connect to the lock.
+I tried resetting but it fails.
+Please advise.
+
+<br><br>--<br>NordTech Customer
+
+My order #100818.",The app cannot connect to the lock. I tried resetting but it fails. Please advise. --NordTech Customer My order #100818.,Kvalitātes problēmas
+T000230,2023-12-15,C0014,NordLock Pro battery drains fast,"<p>My NordLock Pro dies in a day.
+I tried new batteries and it still drains quickly.
+Please help ASAP.
+
+—
+Regards,
+A very unhappy customer</p>
+
+My order #101137.","My NordLock Pro dies in a day. I tried new batteries and it still drains quickly. Please help ASAP. — Regards, A very unhappy customer My order #101137.",Piegādes jautājumi
+T000243,2023-12-15,C0026,Can't connect the app,"<p>The app cannot connect to WiFi.
+I tried pairing again but it fails.
+It worked once and then stopped.
+Also: app won't connect.
+
+<br><br>--<br>NordTech Customer</p><br><p>ASAP</p>",The app cannot connect to WiFi. I tried pairing again but it fails. It worked once and then stopped. Also: app won't connect. --NordTech CustomerASAP,Kvalitātes problēmas
+T000324,2023-12-20,C0025,NordLock Pro won't unlock,"<p>I am locked out — the lock does not respond.
+The app shows offline.
+I need immediate assistance.
+
+<p>Thanks</p><p>Customer</p></p><br><p>This is unacceptable.</p>
+
+Ref: TX-100523",I am locked out — the lock does not respond. The app shows offline. I need immediate assistance. ThanksCustomerThis is unacceptable. Ref: TX-100523,Citi jautājumi
+T000320,2023-12-20,C0125,I want a refund,"I want to return this product.
+It is not as described.
+I need my money back.
+
+—
+Regards,
+A very unhappy customer","I want to return this product. It is not as described. I need my money back. — Regards, A very unhappy customer",Naudas atgriešana
+T000329,2023-12-21,C0057,Where is my order?,"<p>My delivery is delayed.
+Tracking shows pending.
+Where is my order?
+
+<p>Thanks</p><p>Customer</p></p>",My delivery is delayed. Tracking shows pending. Where is my order? ThanksCustomer,Piegādes jautājumi
+T000135,2023-12-08,C0125,Battery dies in 2 days,"My NordLock Pro dies in a day.
+I tried new batteries and it still dies.
+This is unacceptable.
+Also: dead battery.
+
+<p>Thanks</p><p>Customer</p>
+
+My order #101032.",My NordLock Pro dies in a day. I tried new batteries and it still dies. This is unacceptable. Also: dead battery. ThanksCustomer My order #101032.,Piegādes jautājumi
+T000081,2023-12-02,C0126,Very disappointed,"The product is broken.
+Poor quality.
+What are my options?
+
+<br><br>--<br>NordTech Customer
+
+Order number: 100239",The product is broken. Poor quality. What are my options? --NordTech Customer Order number: 100239,Kvalitātes problēmas
+T000242,2023-12-15,C0125,Return request,"<p>I want to return this product.
+It is not working.
+I need my money back.
+
+<p>Thanks</p><p>Customer</p></p><br><p>This is unacceptable.</p>",I want to return this product. It is not working. I need my money back. ThanksCustomerThis is unacceptable.,Citi jautājumi
+T000194,2023-12-12,C0042,Battery problem with my lock,"<p>My smart lock battery drains in a day.
+I tried new batteries and it still drains quickly.
+This is unacceptable.
+Also: battery drains.
+
+<br><br>--<br>NordTech Customer</p><br><p>Please help!</p>
+
+Order number: 100512",My smart lock battery drains in a day. I tried new batteries and it still drains quickly. This is unacceptable. Also: battery drains. --NordTech CustomerPlease help! Order number: 100512,Piegādes jautājumi
+T000052,2023-11-28,C0030,Tracking shows no updates,"<p>My delivery is delayed.
+Tracking shows pending.
+This is taking too long.
+
+Sent from my Android device</p>",My delivery is delayed. Tracking shows pending. This is taking too long. Sent from my Android device,Piegādes jautājumi
+T000167,2023-12-10,C0085,Return request,"I want to return this product.
+It is not as described.
+How do I start an RMA?
+
+<br><br>--<br>NordTech Customer",I want to return this product. It is not as described. How do I start an RMA? --NordTech Customer,Citi jautājumi
+T000030,2023-11-25,C0279,Where is my order?,"My delivery is late.
+Tracking shows in transit for days.
+Please update me.
+Also: tracking.
+
+Sent from my Android device
+
+My order #100965.",My delivery is late. Tracking shows in transit for days. Please update me. Also: tracking. Sent from my Android device My order #100965.,Piegādes jautājumi
+T000252,2023-12-16,C0034,NordLock Pro won't unlock,"I am stuck outside — the lock will not unlock.
+The app shows not responding.
+This is urgent.
+
+<p>Thanks</p><p>Customer</p>",I am stuck outside — the lock will not unlock. The app shows not responding. This is urgent. ThanksCustomer,Citi jautājumi
+T000100,2023-12-04,C0028,Not working as expected,"The product is defective.<br>Poor quality.<br>I want a replacement.<br><br>Sent from my Android device
+
+Ref: TX-100767",The product is defective.Poor quality.I want a replacement.Sent from my Android device Ref: TX-100767,Citi jautājumi
+T000074,2023-12-01,C0203,Where is my order?,"<p>My delivery is late.
+Tracking shows no updates.
+This is taking too long.
+
+Sent from my Android device</p>
+
+Order number: 100575",My delivery is late. Tracking shows no updates. This is taking too long. Sent from my Android device Order number: 100575,Piegādes jautājumi
+T000078,2023-12-01,C0054,Return request,"I want to get a refund for this product.<br>It is not as described.<br>I need my money back.<br>Also: money back.<br><br>Sent from my iPhone
+
+My order #100607.",I want to get a refund for this product.It is not as described.I need my money back.Also: money back.Sent from my iPhone My order #100607.,Naudas atgriešana
+T000260,2023-12-16,C0218,NordLock Pro pairing issue,"The app cannot connect to WiFi.
+I tried resetting but it fails.
+It worked once and then stopped.
+
+—
+Regards,
+A very unhappy customer
+
+Ref: TX-101105","The app cannot connect to WiFi. I tried resetting but it fails. It worked once and then stopped. — Regards, A very unhappy customer Ref: TX-101105",Kvalitātes problēmas
+T000295,2023-12-19,C0017,Tracking shows no updates,"<p>My delivery is delayed.
+Tracking shows pending.
+Please update me.
+
+Sent from my iPhone</p><br><p>Please help!</p>
+
+Order number: 100977",My delivery is delayed. Tracking shows pending. Please update me. Sent from my iPhonePlease help! Order number: 100977,Piegādes jautājumi
+T000229,2023-12-14,C0042,NordLock Pro battery drains fast,"<p>My NordLock Pro battery drains in 48 hours.
+I changed batteries and it still drains quickly.
+Please help ASAP.
+Also: battery drains.
+
+—
+Regards,
+A very unhappy customer</p>","My NordLock Pro battery drains in 48 hours. I changed batteries and it still drains quickly. Please help ASAP. Also: battery drains. — Regards, A very unhappy customer",Citi jautājumi
+T000244,2023-12-15,C0117,Battery problem with my lock,"My NordLock Pro battery drains in a day.
+I changed batteries and it still dies.
+Please help ASAP.
+
+<br><br>--<br>NordTech Customer
+
+My order #100455.",My NordLock Pro battery drains in a day. I changed batteries and it still dies. Please help ASAP. --NordTech Customer My order #100455.,Piegādes jautājumi
+T000126,2023-12-07,C0028,Locked out of my home,"<p>I am stuck outside — the lock will not unlock.
+The app shows offline.
+This is urgent.
+Also: can't get in.
+
+Sent from my Android device</p><br><p>Please help!</p>
+
+Order number: 100767",I am stuck outside — the lock will not unlock. The app shows offline. This is urgent. Also: can't get in. Sent from my Android devicePlease help! Order number: 100767,Piegādes jautājumi
+T000250,2023-12-16,C0042,Locked out of my home,"<p>I am stuck outside — the lock will not unlock.
+The app shows offline.
+I need immediate assistance.
+
+—
+Regards,
+A very unhappy customer</p>
+
+Ref: TX-100512","I am stuck outside — the lock will not unlock. The app shows offline. I need immediate assistance. — Regards, A very unhappy customer Ref: TX-100512",Citi jautājumi
+T000005,2023-11-21,C0114,Battery dies in 2 days,"My NordLock Pro dies in 48 hours.
+I tried new batteries and it still dies.
+I can't rely on this.
+
+<br><br>--<br>NordTech Customer
+
+My order #100223.",My NordLock Pro dies in 48 hours. I tried new batteries and it still dies. I can't rely on this. --NordTech Customer My order #100223.,Piegādes jautājumi
+T000047,2023-11-28,C0020,Tracking shows no updates,"My delivery is delayed.
+Tracking shows in transit for days.
+Please update me.
+Also: courier.
+
+—
+Regards,
+A very unhappy customer
+
+Order number: 100363","My delivery is delayed. Tracking shows in transit for days. Please update me. Also: courier. — Regards, A very unhappy customer Order number: 100363",Piegādes jautājumi
+T000154,2023-12-09,C0276,I want a refund,"I want to get a refund for this product.
+It is not as described.
+I need my money back.
+
+Sent from my iPhone
+
+Order number: 101147",I want to get a refund for this product. It is not as described. I need my money back. Sent from my iPhone Order number: 101147,Naudas atgriešana
+T000029,2023-11-25,C0071,App cannot connect to WiFi,"The app will not connect to the lock.
+I tried pairing again but it fails.
+It worked once and then stopped.
+Also: connectivity.
+
+—
+Regards,
+A very unhappy customer
+
+Order number: 100574","The app will not connect to the lock. I tried pairing again but it fails. It worked once and then stopped. Also: connectivity. — Regards, A very unhappy customer Order number: 100574",Kvalitātes problēmas
+T000245,2023-12-16,C0126,NordLock Pro battery drains fast,"My NordLock Pro battery drains in 2 days.<br>I changed batteries and it still drains quickly.<br>This is unacceptable.<br><br>—<br>Regards,<br>A very unhappy customer
+
+Ref: TX-100239","My NordLock Pro battery drains in 2 days.I changed batteries and it still drains quickly.This is unacceptable.—Regards,A very unhappy customer Ref: TX-100239",Citi jautājumi
+T000297,2023-12-19,C0267,Delivery delay,"My delivery is stuck.<br>Tracking shows pending.<br>Where is my order?<br>Also: courier.<br><br>—<br>Regards,<br>A very unhappy customer
+
+My order #100881.","My delivery is stuck.Tracking shows pending.Where is my order?Also: courier.—Regards,A very unhappy customer My order #100881.",Piegādes jautājumi
+T000010,2023-11-21,C0013,NordLock Pro battery drains fast,"<p>My NordLock Pro battery drains in a day.
+I tried new batteries and it still dies.
+Please help ASAP.
+
+<p>Thanks</p><p>Customer</p></p><br><p>ASAP</p>
+
+Ref: TX-100257",My NordLock Pro battery drains in a day. I tried new batteries and it still dies. Please help ASAP. ThanksCustomerASAP Ref: TX-100257,Citi jautājumi
+T000279,2023-12-18,C0042,App cannot connect to WiFi,"The app cannot connect to the lock.<br>I tried pairing again but it fails.<br>Is there a fix?<br><br>—<br>Regards,<br>A very unhappy customer
+
+Ref: TX-100512","The app cannot connect to the lock.I tried pairing again but it fails.Is there a fix?—Regards,A very unhappy customer Ref: TX-100512",Kvalitātes problēmas
+T000219,2023-12-13,C0013,NordLock Pro won't unlock,"<p>I am stuck outside — the lock will not unlock.
+The app shows offline.
+I need immediate assistance.
+Also: locked out.
+
+—
+Regards,
+A very unhappy customer</p><br><p>ASAP</p>
+
+Order number: 101071","I am stuck outside — the lock will not unlock. The app shows offline. I need immediate assistance. Also: locked out. — Regards, A very unhappy customerASAP Order number: 101071",Piegādes jautājumi
+T000199,2023-12-12,C0005,Battery dies in 2 days,"My smart lock dies in a day.
+I tried new batteries and it still dies.
+This is unacceptable.
+
+Sent from my Android device",My smart lock dies in a day. I tried new batteries and it still dies. This is unacceptable. Sent from my Android device,Citi jautājumi
+T000068,2023-11-29,C0051,Return request,"<p>I want to return this product.
+It is not as described.
+How do I start an RMA?
+
+—
+Regards,
+A very unhappy customer</p>
+
+Ref: TX-100384","I want to return this product. It is not as described. How do I start an RMA? — Regards, A very unhappy customer Ref: TX-100384",Citi jautājumi
+T000113,2023-12-06,C0145,Tracking shows no updates,"<p>My delivery is delayed.
+Tracking shows in transit for days.
+Where is my order?
+Also: delivery late.
+
+Sent from my Android device</p>
+
+My order #100796.",My delivery is delayed. Tracking shows in transit for days. Where is my order? Also: delivery late. Sent from my Android device My order #100796.,Piegādes jautājumi
+T000248,2023-12-16,C0058,Where is my order?,"My delivery is stuck.<br>Tracking shows pending.<br>Please update me.<br><br>—<br>Regards,<br>A very unhappy customer","My delivery is stuck.Tracking shows pending.Please update me.—Regards,A very unhappy customer",Piegādes jautājumi
+T000053,2023-11-28,C0242,Product defective,"<p>The product is not working.
+Very disappointed.
+Please help.
+
+Sent from my Android device</p>",The product is not working. Very disappointed. Please help. Sent from my Android device,Citi jautājumi
+T000311,2023-12-20,C0052,NordLock Pro battery drains fast,"<p>My NordLock Pro battery drains in a day.
+I changed batteries and it still dies.
+I can't rely on this.
+Also: battery drains.
+
+<p>Thanks</p><p>Customer</p></p>
+
+Order number: 101068",My NordLock Pro battery drains in a day. I changed batteries and it still dies. I can't rely on this. Also: battery drains. ThanksCustomer Order number: 101068,Piegādes jautājumi
+T000332,2023-12-21,C0182,Locked out of my home,"I am stuck outside — the lock will not unlock.
+The app shows offline.
+This is urgent.
+
+—
+Regards,
+A very unhappy customer
+
+Ref: TX-100267","I am stuck outside — the lock will not unlock. The app shows offline. This is urgent. — Regards, A very unhappy customer Ref: TX-100267",Citi jautājumi
+T000103,2023-12-05,C0037,Delivery delay,"<p>My delivery is stuck.
+Tracking shows no updates.
+Please update me.
+Also: courier.
+
+Sent from my Android device</p>",My delivery is stuck. Tracking shows no updates. Please update me. Also: courier. Sent from my Android device,Piegādes jautājumi
+T000108,2023-12-05,C0223,Product defective,"The product is not working.
+This should not happen.
+What are my options?
+
+Sent from my Android device
+
+Order number: 100682",The product is not working. This should not happen. What are my options? Sent from my Android device Order number: 100682,Piegādes jautājumi
+T000127,2023-12-08,C0199,Delivery delay,"My delivery is late.
+Tracking shows in transit for days.
+Where is my order?
+
+<br><br>--<br>NordTech Customer
+
+My order #100140.",My delivery is late. Tracking shows in transit for days. Where is my order? --NordTech Customer My order #100140.,Piegādes jautājumi
+T000123,2023-12-07,C0035,Return request,"I want to get a refund for this product.<br>It is defective.<br>Please send return instructions.<br>Also: RMA.<br><br><br><br>--<br>NordTech Customer
+
+Ref: TX-100918",I want to get a refund for this product.It is defective.Please send return instructions.Also: RMA.--NordTech Customer Ref: TX-100918,Naudas atgriešana
+T000089,2023-12-03,C0030,Tracking shows no updates,"My delivery is delayed.<br>Tracking shows pending.<br>Where is my order?<br><br>Sent from my Android device
+
+Order number: 100537",My delivery is delayed.Tracking shows pending.Where is my order?Sent from my Android device Order number: 100537,Piegādes jautājumi
+T000170,2023-12-10,C0147,App cannot connect to WiFi,"<p>The app will not connect to WiFi.
+I tried reinstalling the app but it fails.
+Please advise.
+
+—
+Regards,
+A very unhappy customer</p>
+
+My order #100594.","The app will not connect to WiFi. I tried reinstalling the app but it fails. Please advise. — Regards, A very unhappy customer My order #100594.",Kvalitātes problēmas
+T000086,2023-12-02,C0182,Delivery delay,"<p>My delivery is delayed.
+Tracking shows in transit for days.
+Please update me.
+Also: still not received.
+
+<p>Thanks</p><p>Customer</p></p><br><p>ASAP</p>",My delivery is delayed. Tracking shows in transit for days. Please update me. Also: still not received. ThanksCustomerASAP,Piegādes jautājumi
+T000196,2023-12-12,C0006,NordLock Pro pairing issue,"<p>The app cannot connect to the lock.
+I tried pairing again but it fails.
+Please advise.
+Also: pairing.
+
+Sent from my Android device</p>
+
+My order #100969.",The app cannot connect to the lock. I tried pairing again but it fails. Please advise. Also: pairing. Sent from my Android device My order #100969.,Kvalitātes problēmas
+T000278,2023-12-18,C0237,Locked out of my home,"I am locked out — the lock will not unlock.
+The app shows not responding.
+I need immediate assistance.
+
+<p>Thanks</p><p>Customer</p>
+
+Order number: 100383",I am locked out — the lock will not unlock. The app shows not responding. I need immediate assistance. ThanksCustomer Order number: 100383,Piegādes jautājumi
+T000045,2023-11-27,C0033,Return request,"<p>I want to get a refund for this product.
+It is not as described.
+How do I start an RMA?
+Also: refund.
+
+Sent from my Android device</p><br><p>ASAP</p>",I want to get a refund for this product. It is not as described. How do I start an RMA? Also: refund. Sent from my Android deviceASAP,Naudas atgriešana
+T000107,2023-12-05,C0040,Battery dies in 2 days,"<p>My smart lock dies in a day.
+I changed batteries and it still drains quickly.
+Please help ASAP.
+
+Sent from my iPhone</p>
+
+My order #101158.",My smart lock dies in a day. I changed batteries and it still drains quickly. Please help ASAP. Sent from my iPhone My order #101158.,Piegādes jautājumi
+T000216,2023-12-13,C0051,Where is my order?,"My delivery is stuck.
+Tracking shows pending.
+Please update me.
+
+Sent from my iPhone
+
+Order number: 100384",My delivery is stuck. Tracking shows pending. Please update me. Sent from my iPhone Order number: 100384,Piegādes jautājumi
+T000333,2023-12-21,C0183,Refund for my purchase,"I want to return this product.
+It is not working.
+Please send return instructions.
+Also: return.
+
+—
+Regards,
+A very unhappy customer
+
+My order #101109.","I want to return this product. It is not working. Please send return instructions. Also: return. — Regards, A very unhappy customer My order #101109.",Naudas atgriešana
+T000064,2023-11-29,C0191,Product defective,"<p>The product is broken.
+Poor quality.
+Please help.
+
+—
+Regards,
+A very unhappy customer</p><br><p>Please help!</p>","The product is broken. Poor quality. Please help. — Regards, A very unhappy customerPlease help!",Kvalitātes problēmas
+T000033,2023-11-25,C0017,Tracking shows no updates,"<p>My delivery is stuck.
+Tracking shows no updates.
+This is taking too long.
+
+—
+Regards,
+A very unhappy customer</p><br><p>Please help!</p>","My delivery is stuck. Tracking shows no updates. This is taking too long. — Regards, A very unhappy customerPlease help!",Piegādes jautājumi
+T000223,2023-12-14,C0010,Return request,"<p>I want to return this product.
+It is defective.
+I need my money back.
+Also: return.
+
+Sent from my iPhone</p><br><p>This is unacceptable.</p>
+
+Ref: TX-100813",I want to return this product. It is defective. I need my money back. Also: return. Sent from my iPhoneThis is unacceptable. Ref: TX-100813,Citi jautājumi
+T000125,2023-12-07,C0312,App cannot connect to WiFi,"<p>The app cannot connect to WiFi.
+I tried pairing again but it fails.
+Please advise.
+
+Sent from my Android device</p>
+
+Order number: 100252",The app cannot connect to WiFi. I tried pairing again but it fails. Please advise. Sent from my Android device Order number: 100252,Kvalitātes problēmas
+T000192,2023-12-12,C0001,Tracking shows no updates,"<p>My delivery is delayed.
+Tracking shows no updates.
+Where is my order?
+
+<p>Thanks</p><p>Customer</p></p><br><p>This is unacceptable.</p>
+
+Order number: 101035",My delivery is delayed. Tracking shows no updates. Where is my order? ThanksCustomerThis is unacceptable. Order number: 101035,Piegādes jautājumi
+T000115,2023-12-06,C0122,I want a refund,"<p>I want to get a refund for this product.
+It is not as described.
+Please send return instructions.
+Also: RMA.
+
+<p>Thanks</p><p>Customer</p></p>",I want to get a refund for this product. It is not as described. Please send return instructions. Also: RMA. ThanksCustomer,Naudas atgriešana
+T000321,2023-12-20,C0064,Battery dies in 2 days,"<p>My smart lock dies in a day.
+I tried new batteries and it still drains quickly.
+This is unacceptable.
+Also: 2 days.
+
+<br><br>--<br>NordTech Customer</p>
+
+Order number: 100566",My smart lock dies in a day. I tried new batteries and it still drains quickly. This is unacceptable. Also: 2 days. --NordTech Customer Order number: 100566,Piegādes jautājumi
+T000234,2023-12-15,C0076,Return request,"<p>I want to get a refund for this product.
+It is defective.
+How do I start an RMA?
+
+—
+Regards,
+A very unhappy customer</p><br><p>This is unacceptable.</p>
+
+Order number: 101022","I want to get a refund for this product. It is defective. How do I start an RMA? — Regards, A very unhappy customerThis is unacceptable. Order number: 101022",Naudas atgriešana
+T000247,2023-12-16,C0301,Battery problem with my lock,"My smart lock dies in a day.
+I changed batteries and it still drains quickly.
+This is unacceptable.
+
+<br><br>--<br>NordTech Customer
+
+My order #100644.",My smart lock dies in a day. I changed batteries and it still drains quickly. This is unacceptable. --NordTech Customer My order #100644.,Piegādes jautājumi
+T000101,2023-12-04,C0073,Tracking shows no updates,"My delivery is stuck.
+Tracking shows no updates.
+This is taking too long.
+
+Sent from my Android device",My delivery is stuck. Tracking shows no updates. This is taking too long. Sent from my Android device,Piegādes jautājumi
+T000222,2023-12-14,C0015,Battery dies in 2 days,"<p>My NordLock Pro dies in 48 hours.
+I tried new batteries and it still dies.
+This is unacceptable.
+
+Sent from my iPhone</p><br><p>ASAP</p>
+
+Ref: TX-101073",My NordLock Pro dies in 48 hours. I tried new batteries and it still dies. This is unacceptable. Sent from my iPhoneASAP Ref: TX-101073,Citi jautājumi
+T000268,2023-12-17,C0157,Delivery delay,"<p>My delivery is delayed.
+Tracking shows no updates.
+Please update me.
+Also: still not received.
+
+<p>Thanks</p><p>Customer</p></p>
+
+Ref: TX-100990",My delivery is delayed. Tracking shows no updates. Please update me. Also: still not received. ThanksCustomer Ref: TX-100990,Piegādes jautājumi
+T000184,2023-12-11,C0046,I want a refund,"<p>I want to get a refund for this product.
+It is not as described.
+I need my money back.
+Also: return.
+
+<br><br>--<br>NordTech Customer</p><br><p>Please help!</p>",I want to get a refund for this product. It is not as described. I need my money back. Also: return. --NordTech CustomerPlease help!,Naudas atgriešana
+T000274,2023-12-17,C0004,Battery problem with my lock,"My NordLock Pro dies in a day.<br>I changed batteries and it still drains quickly.<br>Please help ASAP.<br>Also: battery drains.<br><br>Sent from my iPhone
+
+Order number: 101101",My NordLock Pro dies in a day.I changed batteries and it still drains quickly.Please help ASAP.Also: battery drains.Sent from my iPhone Order number: 101101,Piegādes jautājumi
+T000213,2023-12-13,C0019,App cannot connect to WiFi,"<p>The app will not connect to WiFi.
+I tried pairing again but it fails.
+Please advise.
+
+Sent from my iPhone</p>
+
+Order number: 100784",The app will not connect to WiFi. I tried pairing again but it fails. Please advise. Sent from my iPhone Order number: 100784,Kvalitātes problēmas
+T000269,2023-12-17,C0046,Battery problem with my lock,"My smart lock battery drains in a day.<br>I changed batteries and it still dies.<br>Please help ASAP.<br><br>Sent from my iPhone
+
+Order number: 100861",My smart lock battery drains in a day.I changed batteries and it still dies.Please help ASAP.Sent from my iPhone Order number: 100861,Piegādes jautājumi
+T000221,2023-12-14,C0151,Battery dies in 2 days,"<p>My smart lock dies in 2 days.
+I tried new batteries and it still dies.
+Please help ASAP.
+
+Sent from my iPhone</p><br><p>ASAP</p>
+
+My order #100936.",My smart lock dies in 2 days. I tried new batteries and it still dies. Please help ASAP. Sent from my iPhoneASAP My order #100936.,Piegādes jautājumi
+T000197,2023-12-12,C0006,Where is my order?,"My delivery is late.
+Tracking shows no updates.
+Please update me.
+Also: delivery late.
+
+—
+Regards,
+A very unhappy customer","My delivery is late. Tracking shows no updates. Please update me. Also: delivery late. — Regards, A very unhappy customer",Piegādes jautājumi
+T000306,2023-12-19,C0054,I want a refund,"<p>I want to return this product.
+It is not working.
+I need my money back.
+Also: refund.
+
+Sent from my iPhone</p>
+
+My order #100846.",I want to return this product. It is not working. I need my money back. Also: refund. Sent from my iPhone My order #100846.,Naudas atgriešana
+T000189,2023-12-11,C0282,NordLock Pro won't unlock,"I am locked out — the lock does not respond.<br>The app shows offline.<br>I need immediate assistance.<br><br>Sent from my Android device
+
+My order #100815.",I am locked out — the lock does not respond.The app shows offline.I need immediate assistance.Sent from my Android device My order #100815.,Piegādes jautājumi
+T000056,2023-11-28,C0022,NordLock Pro battery drains fast,My smart lock dies in 48 hours.<br>I tried new batteries and it still dies.<br>Please help ASAP.<br>Also: battery drains.<br><br><p>Thanks</p><p>Customer</p>,My smart lock dies in 48 hours.I tried new batteries and it still dies.Please help ASAP.Also: battery drains.ThanksCustomer,Citi jautājumi
+T000314,2023-12-20,C0015,Battery dies in 2 days,"<p>My smart lock dies in 2 days.
+I changed batteries and it still dies.
+I can't rely on this.
+Also: battery drains.
+
+—
+Regards,
+A very unhappy customer</p>
+
+Ref: TX-101073","My smart lock dies in 2 days. I changed batteries and it still dies. I can't rely on this. Also: battery drains. — Regards, A very unhappy customer Ref: TX-101073",Citi jautājumi
+T000292,2023-12-18,C0257,Refund for my purchase,"<p>I want to return this product.
+It is not working.
+I need my money back.
+
+<p>Thanks</p><p>Customer</p></p>
+
+My order #100640.",I want to return this product. It is not working. I need my money back. ThanksCustomer My order #100640.,Naudas atgriešana
+T000054,2023-11-28,C0307,Product defective,"The product is broken.<br>Poor quality.<br>I want a replacement.<br><br>Sent from my iPhone
+
+Ref: TX-101115",The product is broken.Poor quality.I want a replacement.Sent from my iPhone Ref: TX-101115,Kvalitātes problēmas
+T000195,2023-12-12,C0093,Return request,"I want to get a refund for this product.
+It is not as described.
+I need my money back.
+
+Sent from my iPhone",I want to get a refund for this product. It is not as described. I need my money back. Sent from my iPhone,Naudas atgriešana
+T000261,2023-12-17,C0271,App cannot connect to WiFi,"<p>The app will not connect to the lock.
+I tried reinstalling the app but it fails.
+It worked once and then stopped.
+Also: app won't connect.
+
+Sent from my Android device</p>",The app will not connect to the lock. I tried reinstalling the app but it fails. It worked once and then stopped. Also: app won't connect. Sent from my Android device,Kvalitātes problēmas
+T000202,2023-12-13,C0015,NordLock Pro battery drains fast,My NordLock Pro battery drains in 48 hours.<br>I tried new batteries and it still drains quickly.<br>This is unacceptable.<br>Also: battery life.<br><br><br><br>--<br>NordTech Customer,My NordLock Pro battery drains in 48 hours.I tried new batteries and it still drains quickly.This is unacceptable.Also: battery life.--NordTech Customer,Citi jautājumi
+T000204,2023-12-13,C0018,Battery problem with my lock,"My smart lock battery drains in 48 hours.<br>I changed batteries and it still drains quickly.<br>Please help ASAP.<br><br>—<br>Regards,<br>A very unhappy customer","My smart lock battery drains in 48 hours.I changed batteries and it still drains quickly.Please help ASAP.—Regards,A very unhappy customer",Citi jautājumi
+T000266,2023-12-17,C0199,Battery dies in 2 days,"My NordLock Pro battery drains in 48 hours.
+I changed batteries and it still drains quickly.
+Please help ASAP.
+Also: 2 days.
+
+Sent from my Android device",My NordLock Pro battery drains in 48 hours. I changed batteries and it still drains quickly. Please help ASAP. Also: 2 days. Sent from my Android device,Citi jautājumi
+T000296,2023-12-19,C0013,NordLock Pro won't unlock,"I am stuck outside — the lock will not unlock.
+The app shows not responding.
+I need immediate assistance.
+Also: can't get in.
+
+—
+Regards,
+A very unhappy customer","I am stuck outside — the lock will not unlock. The app shows not responding. I need immediate assistance. Also: can't get in. — Regards, A very unhappy customer",Citi jautājumi
+T000232,2023-12-15,C0042,I want a refund,"<p>I want to return this product.
+It is not working.
+I need my money back.
+
+Sent from my Android device</p>
+
+My order #100512.",I want to return this product. It is not working. I need my money back. Sent from my Android device My order #100512.,Naudas atgriešana
+T000272,2023-12-17,C0200,I want a refund,"I want to get a refund for this product.<br>It is defective.<br>Please send return instructions.<br>Also: return.<br><br><p>Thanks</p><p>Customer</p>
+
+Order number: 100470",I want to get a refund for this product.It is defective.Please send return instructions.Also: return.ThanksCustomer Order number: 100470,Naudas atgriešana
+T000168,2023-12-10,C0001,Battery dies in 2 days,"<p>My smart lock battery drains in a day.
+I changed batteries and it still dies.
+Please help ASAP.
+Also: dead battery.
+
+Sent from my Android device</p>
+
+Ref: TX-100913",My smart lock battery drains in a day. I changed batteries and it still dies. Please help ASAP. Also: dead battery. Sent from my Android device Ref: TX-100913,Citi jautājumi
+T000307,2023-12-19,C0031,Return request,"<p>I want to return this product.
+It is not working.
+Please send return instructions.
+
+Sent from my Android device</p>
+
+My order #100974.",I want to return this product. It is not working. Please send return instructions. Sent from my Android device My order #100974.,Piegādes jautājumi
+T000267,2023-12-17,C0030,NordLock Pro battery drains fast,"My smart lock dies in a day.
+I changed batteries and it still dies.
+This is unacceptable.
+
+Sent from my iPhone
+
+Order number: 101094",My smart lock dies in a day. I changed batteries and it still dies. This is unacceptable. Sent from my iPhone Order number: 101094,Piegādes jautājumi
+T000098,2023-12-04,C0031,Delivery delay,"<p>My delivery is delayed.
+Tracking shows no updates.
+Please update me.
+
+—
+Regards,
+A very unhappy customer</p><br><p>ASAP</p>
+
+My order #100816.","My delivery is delayed. Tracking shows no updates. Please update me. — Regards, A very unhappy customerASAP My order #100816.",Piegādes jautājumi
+T000163,2023-12-10,C0137,Can't open the door,"<p>I am stuck outside — the lock will not unlock.
+The app shows offline.
+This is urgent.
+
+Sent from my iPhone</p><br><p>Please help!</p>",I am stuck outside — the lock will not unlock. The app shows offline. This is urgent. Sent from my iPhonePlease help!,Citi jautājumi
+T000023,2023-11-24,C0069,App cannot connect to WiFi,"<p>The app will not connect to the lock.
+I tried reinstalling the app but it fails.
+Is there a fix?
+Also: app won't connect.
+
+—
+Regards,
+A very unhappy customer</p>
+
+Order number: 100630","The app will not connect to the lock. I tried reinstalling the app but it fails. Is there a fix? Also: app won't connect. — Regards, A very unhappy customer Order number: 100630",Kvalitātes problēmas
+T000323,2023-12-20,C0099,Delivery delay,"My delivery is late.<br>Tracking shows no updates.<br>Please update me.<br><br>Sent from my Android device
+
+My order #100258.",My delivery is late.Tracking shows no updates.Please update me.Sent from my Android device My order #100258.,Piegādes jautājumi
+T000160,2023-12-09,C0033,Refund for my purchase,"<p>I want to return this product.
+It is not working.
+I need my money back.
+
+—
+Regards,
+A very unhappy customer</p>
+
+Order number: 100818","I want to return this product. It is not working. I need my money back. — Regards, A very unhappy customer Order number: 100818",Naudas atgriešana
+T000331,2023-12-21,C0008,NordLock Pro battery drains fast,"<p>My NordLock Pro dies in 2 days.
+I changed batteries and it still drains quickly.
+I can't rely on this.
+
+Sent from my iPhone</p>
+
+My order #101131.",My NordLock Pro dies in 2 days. I changed batteries and it still drains quickly. I can't rely on this. Sent from my iPhone My order #101131.,Piegādes jautājumi
+T000309,2023-12-19,C0040,Battery dies in 2 days,"My smart lock battery drains in a day.
+I changed batteries and it still dies.
+I can't rely on this.
+Also: 2 days.
+
+Sent from my Android device
+
+Ref: TX-100753",My smart lock battery drains in a day. I changed batteries and it still dies. I can't rely on this. Also: 2 days. Sent from my Android device Ref: TX-100753,Citi jautājumi
+T000020,2023-11-24,C0126,Tracking shows no updates,"<p>My delivery is delayed.
+Tracking shows no updates.
+Please update me.
+
+<p>Thanks</p><p>Customer</p></p>
+
+My order #100239.",My delivery is delayed. Tracking shows no updates. Please update me. ThanksCustomer My order #100239.,Piegādes jautājumi
+T000246,2023-12-16,C0075,NordLock Pro pairing issue,"The app will not connect to WiFi.
+I tried pairing again but it fails.
+Is there a fix?
+
+<p>Thanks</p><p>Customer</p>
+
+My order #100871.",The app will not connect to WiFi. I tried pairing again but it fails. Is there a fix? ThanksCustomer My order #100871.,Kvalitātes problēmas
+T000111,2023-12-05,C0039,Tracking shows no updates,"My delivery is late.
+Tracking shows in transit for days.
+This is taking too long.
+Also: delivery late.
+
+<br><br>--<br>NordTech Customer",My delivery is late. Tracking shows in transit for days. This is taking too long. Also: delivery late. --NordTech Customer,Piegādes jautājumi
+T000094,2023-12-03,C0198,Delivery delay,"My delivery is late.
+Tracking shows in transit for days.
+Where is my order?
+
+<br><br>--<br>NordTech Customer",My delivery is late. Tracking shows in transit for days. Where is my order? --NordTech Customer,Piegādes jautājumi
